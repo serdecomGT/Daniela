@@ -39,5 +39,5 @@ Git puede trabajar no solamente con código, sino prácticamente con cualquier t
 Aunque es muy útil, Git puede resultar complicado para principiantes, especialmente cuando se empiezan a utilizar ramas, fusiones (merges) y comandos más avanzados. También es posible cometer errores si se utilizan comandos sin comprender qué hacen.
 En resumen: Git es una herramienta fundamental para el desarrollo de software porque permite controlar, organizar y recuperar las diferentes versiones de un proyecto, facilitando especialmente el trabajo colaborativo.
  
-## Resumen de Git
+## RESUMEN DE GIT 
 Git es un sistema de control de versiones creado para ayudar a los desarrolladores a administrar y registrar los cambios realizados en un proyecto. Permite guardar diferentes versiones de los archivos, consultar el historial, recuperar versiones anteriores y trabajar en equipo sin perder fácilmente el trabajo realizado. Git utiliza elementos como los repositorios, commits y ramas (branches) para organizar los cambios. Además, puede utilizarse sin conexión a Internet para muchas de sus funciones, ya que el historial se almacena localmente. Es muy utilizado en el desarrollo de software y puede trabajar junto con plataformas como GitHub, que permiten almacenar repositorios y colaborar con otros desarrolladores.
