@@ -21,6 +21,43 @@ Antes de finalizar la jornada, Don Carlos nos informó que **el día viernes ten
 
 **De esta manera, terminamos nuestra jornada de prácticas aproximadamente a las 6:00 de la tarde**.
 
-Al regresar a mi casa, continué trabajando en los temas desde aproximadamente las **6:45 p. m. hasta las 9:36 p. m.**. Durante este tiempo comencé a introducir e investigar el nuevo tema que nos habían dejado, el cual era #Markdown, además de continuar editando y complementando los demás temas que ya habíamos comenzado a trabajar durante el día.
+Al regresar a mi casa, continué trabajando en los temas desde aproximadamente las **6:45 p. m. hasta las 9:36 p. m.**. Durante este tiempo comencé a introducir e investigar el nuevo tema que nos habían dejado, el cual era ***Markdown***, además de continuar editando y complementando los demás temas que ya habíamos comenzado a trabajar durante el día.
 
 En general, fue un día bastante productivo, ya que además de comenzar oficialmente nuestras prácticas, pude conocer las actividades que realizaremos durante este mes, aprender sobre diferentes temas relacionados con la informática, revisar el funcionamiento de algunos equipos y comenzar a trabajar con nuevas herramientas y conceptos que tendremos que presentar posteriormente.
+
+## MIÉRCOLES 2 DE SEPTIEMBRE 
+### Horario: 8:00 a.m. a 12:30 p.m.
+
+***Actividades realizadas***
+
+Durante este período de la jornada continué con la organización y elaboración del archivo principal correspondiente al proyecto. El objetivo principal fue establecer una estructura clara que permitiera incorporar de manera ordenada toda la información relacionada con los diferentes temas asignados.
+
+Comencé a organizar y componer el archivo principal del proyecto, revisando la distribución de los contenidos para evitar que la información quedara desordenada o repetitiva.
+
+Estructuré el contenido utilizando viñetas, subtítulos y diferentes apartados, con la finalidad de que cada tema pudiera identificarse fácilmente y tuviera una presentación más clara y comprensible.
+
+Organicé y agregué información correspondiente a cada uno de los temas asignados: Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI.
+Para cada tema fui recopilando y colocando información relacionada con su definición, funcionamiento, utilidad, características y aspectos importantes, procurando que el contenido fuera suficientemente amplio para comprender cada concepto.
+Revisé la distribución de los temas dentro del documento para mantener una secuencia lógica y facilitar posteriormente la lectura, revisión y modificación del archivo.
+
+También fui acomodando los textos de manera que cada apartado tuviera una estructura similar, permitiendo que el documento mantuviera mayor uniformidad.
+Aseguré que el archivo quedara adecuadamente estructurado y organizado para facilitar el trabajo de las siguientes etapas del proyecto y permitir que la información pudiera seguir ampliándose sin perder el orden.
+Durante este proceso presté atención a la presentación del documento, procurando que los contenidos fueran fáciles de localizar y que cada tema estuviera separado correctamente.
+
+### Horario de: 1:30 p.m. a 5:00 p.m.
+Actividades realizadas
+
+Durante la segunda parte de la jornada continué trabajando en el contenido del archivo principal. En este período me enfoqué principalmente en ampliar la información de los diferentes temas para que el documento no se limitara únicamente a definiciones, sino que contara con explicaciones más completas.
+
+Agregué más texto y detalles a cada una de las secciones, ampliando la información para que los temas quedaran mejor explicados y fueran más fáciles de comprender.
+Continué desarrollando los apartados relacionados con Blazor, C#, Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI, procurando complementar la información que ya había sido agregada durante la mañana.
+Revisé algunos de los textos para comprobar que las ideas estuvieran relacionadas con el tema correspondiente y que la información mantuviera una secuencia adecuada.
+
+Amplié las explicaciones de los conceptos principales, buscando que el documento tuviera información suficiente para utilizarlo posteriormente como material de consulta y apoyo para la elaboración del proyecto.
+Continué organizando el contenido mediante subtítulos y viñetas para evitar que el documento se convirtiera únicamente en grandes bloques de texto y para facilitar su lectura.
+Realicé una revisión general de la estructura del archivo conforme iba agregando información, verificando que los nuevos contenidos fueran colocados en la sección correspondiente.
+
+El cuestionario correspondiente a los temas trabajados todavía no fue elaborado durante esta jornada, debido a que primero se priorizó la organización y ampliación de la información del archivo principal.
+La elaboración del cuestionario quedó pendiente para continuarla posteriormente en horas de la noche, una vez finalizada la recopilación y organización de los contenidos necesarios para formular correctamente las preguntas.
+
+Al finalizar la jornada, se logró avanzar considerablemente en la organización y ampliación del archivo principal, dejando estructurada la información de los temas asignados y preparada para continuar con las siguientes actividades del proyecto.
