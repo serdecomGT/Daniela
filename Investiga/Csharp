@@ -1,11 +1,11 @@
-#C Sharp
+# C Sharp
 
-##¿Qué es Csharp 
+## ¿Qué es Csharp 
 Csharp es un lenguaje de programación moderno, orientado a objetos y desarrollado por Microsoft. Fue creado para desarrollar diferentes tipos de programas y actualmente forma parte del ecosistema .NET.
 
 Sharp permite darle instrucciones a una computadora para realizar determinadas acciones. Con él se pueden crear desde programas sencillos hasta sistemas empresariales complejos, aplicaciones móviles, páginas web y videojuegos.
 
-##¿cúal es su función?
+## ¿cúal es su función?
 La función principal de Csharp es permitir a los desarrolladores crear software mediante código.
 
 El programador escribe instrucciones utilizando **la sintaxis de Csharp**, y posteriormente **.NET** se encarga de proporcionar el entorno necesario para que ese programa pueda ejecutarse.
@@ -13,14 +13,14 @@ El programador escribe instrucciones utilizando **la sintaxis de Csharp**, y pos
 Por ejemplo, con Csharp se puede indicar:
 
 Qué información debe mostrar un programa.
-Cómo debe responder cuando un usuario presiona un botón.
-Cómo guardar o consultar información.
-Cómo realizar cálculos.
-Cómo conectarse a una base de datos.
-Cómo comunicarse con otros servicios.
-Cómo controlar diferentes partes de una aplicación.
+. Cómo debe responder cuando un usuario presiona un botón.
+. Cómo guardar o consultar información.
+. Cómo realizar cálculos.
+. Cómo conectarse a una base de datos.
+. Cómo comunicarse con otros servicios.
+. Cómo controlar diferentes partes de una aplicación.
 
-##¿Qué se puede hacer con el Csharp?
+## ¿Qué se puede hacer con el Csharp?
 
 Aplicaciones móviles
 Mediante .NET MAUI, Csharp puede utilizarse para desarrollar aplicaciones destinadas a Android, iOS, Windows y macOS.
@@ -34,7 +34,7 @@ Csharp es muy utilizado con Unity, un motor de desarrollo de videojuegos. Esto p
 Aplicaciones de escritorio
 Puede utilizarse para crear programas que funcionan directamente en computadoras.
 
-Por ejemplo:
+**Por ejemplo:**
 Sistemas de inventario.
 Sistemas escolares.
 Programas administrativos.
@@ -47,7 +47,7 @@ Csharp también puede utilizarse para desarrollar servicios que funcionan en ser
 Inteligencia artificial
 El ecosistema .NET cuenta con herramientas y bibliotecas que permiten trabajar con inteligencia artificial, aprendizaje automático y procesamiento de datos.
 
-##¿Cómo funciona?
+## ¿Cómo funciona?
 Un programa de Csharp está compuesto por instrucciones que indican qué debe hacer el sistema.
 
 Por ejemplo:
@@ -67,7 +67,7 @@ Aquí se crea una variable llamada **edad** y después se utiliza una condición
 
 Esto demuestra que Csharp puede utilizar variables, condiciones, operaciones, métodos, clases y objetos para construir programas más complejos.Ç
 
-##Caracteristicas completas 
+## Caracteristicas completas 
 **1. Orientado a objetos**
 Csharp utiliza la programación orientada a objetos, un modelo que permite organizar el código mediante clases y objetos.
 
@@ -87,7 +87,7 @@ Permite crear componentes que pueden reutilizarse en diferentes partes de una ap
 5. Gran cantidad de bibliotecas
 **.NET** proporciona numerosas herramientas que facilitan tareas como trabajar con archivos, bases de datos, redes, aplicaciones web y mucho más.
 
-##Elementos básicos de Csharp
+## Elementos básicos de Csharp
 Para comenzar a programar en Csharp es importante conocer algunos conceptos:
 
 Variables: almacenan información.
@@ -99,7 +99,7 @@ Clases: sirven como estructuras para crear objetos.
 Objetos: representan elementos que contienen información y comportamientos.
 Excepciones: permiten controlar determinados errores durante la ejecución.
 
-##Datos curiosos de Csharp
+## Datos curiosos de Csharp
 Csharp fue desarrollado por Microsoft.
 Su primera versión apareció en **2000**.
 Su creador principal fue **Anders Hejlsberg**, quien también participó en el desarrollo de otros lenguajes y herramientas de programación.
@@ -111,7 +111,7 @@ Se utiliza en videojuegos desarrollados con **Unity**.
 Puede utilizarse tanto para proyectos pequeños como para sistemas empresariales de gran tamaño.
 Csharp continúa recibiendo nuevas versiones y características.
 
-##Ventajas de Csharp
+## Ventajas de Csharp
 Es versátil.
 Tiene una sintaxis relativamente organizada.
 Cuenta con muchas herramientas de desarrollo.
@@ -121,13 +121,12 @@ Tiene una gran cantidad de bibliotecas.
 Puede utilizarse en múltiples plataformas.
 Es utilizado profesionalmente en diferentes industrias.
 
-##Desventajas de Csherp
+## Desventajas de Csherp
 Puede ser difícil para alguien que está comenzando desde cero.
 Tiene muchos conceptos que aprender.
 Los proyectos grandes pueden volverse complejos.
 Para aprovechar todo su potencial es necesario conocer también partes del ecosistema .NET.
 
-##Importancia de Csharp
+## Importancia de Csharp
 Csharp es importante porque permite desarrollar una gran variedad de soluciones tecnológicas utilizando un lenguaje que puede adaptarse a diferentes necesidades. Su integración con .NET, su utilización en videojuegos y su capacidad para crear aplicaciones web, móviles y de escritorio lo convierten en una herramienta muy útil para los desarrolladores.
 
-##Cshi
