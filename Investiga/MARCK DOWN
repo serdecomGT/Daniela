@@ -84,7 +84,7 @@ Si queremos crear un documento con diseños gráficos muy elaborados, Markdown n
 **5. Existen diferentes variantes**
 Markdown tiene diferentes implementaciones y extensiones, por lo que no todos los lugares interpretan exactamente los mismos comandos.
 
-##Datos curiosos sobre Markdown##
+##Datos curiosos sobre Markdown
 Fue creado por John Gruber, con ayuda de Aaron Swartz, y apareció originalmente en 2004.
 La extensión más común para sus archivos es **.md**, aunque también puede encontrarse .markdown.
 El nombre Markdown hace un juego de palabras con el concepto de *"markup"* o marcado, pero buscando una forma más sencilla de escribir.
@@ -94,14 +94,14 @@ Markdown no es exactamente un lenguaje de programación. Es más apropiado llama
 El símbolo **#**, utilizado para los títulos, también tiene otros significados en diferentes lenguajes y herramientas, pero en Markdown se utiliza principalmente para crear encabezados.
 Markdown puede mezclarse con HTML en muchas implementaciones, lo que permite realizar formatos que Markdown por sí solo no ofrece.
 
-##¿Por qué es importante aprender Markdown?##
+##¿Por qué es importante aprender Markdown?
 Prender de Markdown puede ser útil porque es una herramienta muy utilizada dentro del mundo tecnológico. Un estudiante que aprende Markdown puede comenzar a crear documentación de sus proyectos, organizar apuntes, crear archivos README y presentar información técnica de manera profesional.
 Además, sus conocimientos básicos se aprenden relativamente rápido. No necesitas convertirte en programador para utilizarlo, pero conocerlo puede ser una ventaja si posteriormente estudias programación, desarrollo web, bases de datos o áreas relacionadas con informática.
 
-##¿Cuál es su finalidad?##
+##¿Cuál es su finalidad?
 La finalidad principal de Markdown es facilitar la creación de documentos estructurados utilizando una sintaxis sencilla y fácil de leer.
 
 En otras palabras, busca que una persona pueda escribir contenido con formato sin tener que utilizar herramientas complicadas.
 
-##Conclusión##
+##Conclusión
 Markdown es un lenguaje de marcado ligero creado para facilitar la escritura y organización de documentos digitales. Su sencillez permite crear títulos, listas, tablas, enlaces, imágenes, citas y bloques de código utilizando símbolos fáciles de recordar. Es especialmente utilizado en programación, documentación, páginas web, archivos README y plataformas como GitHub. Entre sus principales ventajas se encuentran su facilidad de aprendizaje, rapidez, poco peso y compatibilidad con diferentes herramientas; sin embargo, tiene menos posibilidades de diseño que programas como Word y algunas funciones pueden variar dependiendo de la plataforma. Lo más interesante es que, aunque es muy sencillo, se ha convertido en una herramienta importante dentro del mundo tecnológico porque permite escribir información de forma clara para las personas y estructurada para las herramientas digitales.
