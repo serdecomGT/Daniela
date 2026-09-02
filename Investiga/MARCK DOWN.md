@@ -46,47 +46,47 @@ Empresas y desarrolladores pueden utilizarlo para crear manuales, instrucciones 
 Markdown permite escribir información técnica de una forma ordenada sin tener que utilizar un editor visual.
 
 ***Ventajas de Markdown***
-**1. Es fácil de aprender**
+**1. Es fácil de aprender:**
 No requiere conocimientos avanzados de programación. La mayoría de sus comandos básicos pueden aprenderse en poco tiempo.
 
-**2. Es rápido**
+**2. Es rápido:**
 Permite aplicar formato utilizando el teclado, sin tener que buscar botones como ocurre en algunos procesadores de texto.
 
-**3. Es ligero**
+**3. Es ligero:**
 Los archivos .md normalmente contienen solamente texto y símbolos, por lo que ocupan muy poco espacio.
 
-**4. Es fácil de leer**
+**4. Es fácil de leer:**
 Incluso sin convertir el archivo, el contenido sigue siendo bastante comprensible.
 
-**5. Es compatible con muchas plataformas**
+**5. Es compatible con muchas plataformas:**
 Markdown es utilizado por numerosas herramientas y sitios web.
 
-**6. Es excelente para documentación**
+**6. Es excelente para documentación:**
 Permite organizar información técnica de manera clara.
 
-**7. Facilita el trabajo colaborativo**
+**7. Facilita el trabajo colaborativo:**
 Al ser texto plano, resulta sencillo trabajar con él utilizando sistemas de control de versiones como Git.
 
-**8. Es portable**
+**8. Es portable:**
 Un archivo Markdown puede abrirse prácticamente desde cualquier editor de texto.
 
-**9. Permite combinar texto y código**
+**9. Permite combinar texto y código:**
 Es especialmente útil para desarrolladores porque pueden explicar un concepto y mostrar inmediatamente un ejemplo de código.
 
 ## Desventajas de Markdown
-**1. No tiene tantas opciones visuales**
+**1. No tiene tantas opciones visuales:**
 Comparado con programas como Microsoft Word, Markdown tiene menos opciones para personalizar el diseño.
 
-**2. Algunas funciones dependen de la plataforma**
+**2. Algunas funciones dependen de la plataforma:**
 Un formato que funciona en una plataforma podría comportarse de manera diferente en otra.
 
-**3. Las tablas pueden ser complicadas**
+**3. Las tablas pueden ser complicadas:**
 Crear tablas pequeñas es fácil, pero las tablas grandes pueden resultar incómodas de escribir manualmente.
 
-**4. No está pensado para diseños complejos**
+**4. No está pensado para diseños complejos:**
 Si queremos crear un documento con diseños gráficos muy elaborados, Markdown no es la herramienta ideal.
 
-**5. Existen diferentes variantes**
+**5. Existen diferentes variantes:**
 Markdown tiene diferentes implementaciones y extensiones, por lo que no todos los lugares interpretan exactamente los mismos comandos.
 
 ## Datos curiosos sobre Markdown
