@@ -89,8 +89,6 @@ Si queremos crear un documento con diseños gráficos muy elaborados, Markdown n
 **5. Existen diferentes variantes**
 Markdown tiene diferentes implementaciones y extensiones, por lo que no todos los lugares interpretan exactamente los mismos comandos.
 
----
-
 ## Datos curiosos sobre Markdown
 Fue creado por **John Gruber**, con ayuda de **Aaron Swartz**, y apareció originalmente en **2004**.
 La extensión más común para sus archivos es **.md**, aunque también puede encontrarse .markdown.
@@ -110,6 +108,5 @@ La finalidad principal de Markdown es facilitar la creación de documentos estru
 
 En otras palabras, busca que una persona pueda escribir contenido con formato sin tener que utilizar herramientas complicadas.
 
---
 ## Conclusión
 Markdown es un lenguaje de marcado ligero creado para facilitar la escritura y organización de documentos digitales. Su sencillez permite crear títulos, listas, tablas, enlaces, imágenes, citas y bloques de código utilizando símbolos fáciles de recordar. Es especialmente utilizado en programación, documentación, páginas web, archivos README y plataformas como GitHub. Entre sus principales ventajas se encuentran su facilidad de aprendizaje, rapidez, poco peso y compatibilidad con diferentes herramientas; sin embargo, tiene menos posibilidades de diseño que programas como Word y algunas funciones pueden variar dependiendo de la plataforma. Lo más interesante es que, aunque es muy sencillo, se ha convertido en una herramienta importante dentro del mundo tecnológico porque permite escribir información de forma clara para las personas y estructurada para las herramientas digitales.
