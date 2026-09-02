@@ -1,4 +1,6 @@
-#Primer día de prácticas - lunes 1 de septiembre 
+# Primer día de prácticas - lunes 1 de septiembre 
+---
+
 El día de hoy inicié mis prácticas con Don Carlos. La jornada comenzó a las **8:00 de la mañana**. Para iniciar, Don Carlos nos dio la bienvenida y posteriormente tuvimos una conversación acerca de la carrera que estamos estudiando. También nos explicó y comentó sobre las actividades que realizaríamos durante este mes de prácticas junto con mi compañera **Aide Rubio**.
 
 Después de habernos explicado sobre la carrera y las actividades que realizaríamos durante el mes, Don Carlos nos indicó los diferentes temas que debíamos investigar. Además, nos proporcionó un pequeño resumen de cada uno de ellos para que pudiéramos tener una idea general y comprender de qué trataba cada tema. Los temas debíamos complementarlos nosotros mismos mediante la investigación, agregando información importante y procurando comprender el contenido.
@@ -15,7 +17,7 @@ Cuando ya faltaba poco para terminar, nos indicaron que no teníamos correctamen
 
 Antes de finalizar la jornada, Don Carlos nos informó que **el día viernes tendríamos que exponer los temas que nos había dejado de tarea, en un horario de 3:00 p. m. a 5:00 p. m.**. Nos explicó que la finalidad de esta actividad es que podamos aprender y comprender los temas que estamos estudiando, además de demostrar que somos capaces de explicar la información que investigamos.
 
-De esta manera, terminamos nuestra jornada de prácticas aproximadamente a las **6:00 de la tarde**.
+**De esta manera, terminamos nuestra jornada de prácticas aproximadamente a las 6:00 de la tarde**.
 
 Al regresar a mi casa, continué trabajando en los temas desde aproximadamente las **6:45 p. m. hasta las 9:36 p. m.**. Durante este tiempo comencé a introducir e investigar el nuevo tema que nos habían dejado, el cual era #Markdown, además de continuar editando y complementando los demás temas que ya habíamos comenzado a trabajar durante el día.
 
