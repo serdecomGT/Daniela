@@ -19,7 +19,7 @@
 6. ¿Qué extensión de archivo tienen los componentes de Blazor?
 7. ¿Qué son los parámetros de componente (`[Parameter]`) en Blazor? Da un ejemplo.
 8. ¿Qué es el *data binding* (enlace de datos) en Blazor? Explica la diferencia entre *one-way binding* y *two-way binding*.
-9. ¿Qué directiva usarías para enlazar双向mente el valor de un campo de texto con una variable? Escribe un ejemplo.
+9. ¿Qué directiva usarías para enlazar dinámicamente el valor de un campo de texto con una variable? Escribe un ejemplo.
 10. ¿Qué son los *lifecycle methods* (métodos del ciclo de vida) de un componente? Menciona al menos dos.
 
 ## Sección C — Uso práctico
