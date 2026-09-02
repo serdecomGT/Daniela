@@ -1,11 +1,14 @@
-#CLIENTE - SERVIDOR
-##¿QUÉ ES CLIENTE - SERVIDOR?
+# CLIENTE - SERVIDOR
+
+---
+
+## ¿QUÉ ES CLIENTE - SERVIDOR?
 El modelo cliente-servidor es una forma de organizar la comunicación entre computadoras y dispositivos dentro de una red. En este modelo existen principalmente dos partes: el cliente, que solicita información o un servicio, y el servidor, que recibe esa solicitud, la procesa y devuelve una respuesta.
 
 Un ejemplo sencillo es cuando entras a una página web desde tu celular. Tu navegador es el cliente: solicita la página. El servidor recibe la solicitud, busca los datos necesarios y se los envía al navegador para que puedas visualizar la página.
 
-##¿QUÉ ES CLIENTE?
-El cliente es el dispositivo o programa que realiza una solicitud.
+## ¿QUÉ ES CLIENTE?
+**El cliente es el dispositivo o programa que realiza una solicitud.**
 
 Puede ser:
 Un teléfono.
@@ -16,8 +19,8 @@ Un programa conectado a una red.
 
 Por ejemplo, cuando utilizas una aplicación para consultar información, la aplicación actúa como cliente y solicita los datos al servidor.
 
-##¿QUÉ ES EL SERVIDOR?
-El servidor es el sistema que proporciona un servicio o información al cliente.
+## ¿QUÉ ES EL SERVIDOR?
+**El servidor es el sistema que proporciona un servicio o información al cliente.**
 
 Puede encargarse de:
 Guardar información.
@@ -30,7 +33,7 @@ Ejecutar determinadas operaciones.
 
 Un servidor puede atender muchos clientes al mismo tiempo.
 
-##¿CÓMO FUNCIONA?
+## ¿CÓMO FUNCIONA?
 
 Cliente → Solicitud
 El cliente pide información o un servicio.
@@ -57,7 +60,7 @@ El servidor consulta la información almacenada.
 Devuelve los productos encontrados.
 La aplicación los muestra en tu pantalla.
 
-##¿PARA QUÉ SE UTILIZA?
+## ¿PARA QUÉ SE UTILIZA?
 El modelo cliente-servidor se utiliza para permitir que diferentes dispositivos compartan información y servicios a través de una red.
 
 Es común en:
@@ -71,7 +74,7 @@ Correo electrónico.
 Sistemas con bases de datos.
 Sistemas empresariales.
 
-##¿QUÉ TIENE DE INTERESANTE?
+## ¿QUÉ TIENE DE INTERESANTE?
 
 Lo interesante es que el cliente no necesita tener toda la información. Puede solicitarla al servidor cuando la necesite.
 
