@@ -1,4 +1,4 @@
-# Primer día de prácticas - lunes 1 de septiembre 
+# DIARIO DE CAMPO  
 ---
 
 El día de hoy inicié mis prácticas con Don Carlos. La jornada comenzó a las **8:00 de la mañana**. Para iniciar, Don Carlos nos dio la bienvenida y posteriormente tuvimos una conversación acerca de la carrera que estamos estudiando. También nos explicó y comentó sobre las actividades que realizaríamos durante este mes de prácticas junto con mi compañera **Aide Rubio**.
