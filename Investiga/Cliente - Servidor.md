@@ -83,26 +83,29 @@ Lo interesante es que el cliente no necesita tener toda la información. Puede s
 Esto permite centralizar información y facilitar su administración.
 
 **DATOS CURIOSOS**
-Un servidor puede atender numerosos clientes simultáneamente.
-Un mismo dispositivo puede funcionar como cliente y servidor dependiendo de lo que esté haciendo.
-Internet utiliza constantemente diferentes formas de comunicación basadas en este modelo.
-Los servidores pueden estar ubicados en grandes centros de datos y atender usuarios de diferentes países.
-Si el servidor deja de funcionar, los clientes que dependen de él pueden perder temporalmente el acceso al servicio.
-El modelo cliente-servidor es una de las bases de muchos sistemas informáticos modernos.
+
+. Un servidor puede atender numerosos clientes simultáneamente.
+. Un mismo dispositivo puede funcionar como cliente y servidor dependiendo de lo que esté haciendo.
+. Internet utiliza constantemente diferentes formas de comunicación basadas en este modelo.
+. Los servidores pueden estar ubicados en grandes centros de datos y atender usuarios de diferentes países.
+. Si el servidor deja de funcionar, los clientes que dependen de él pueden perder temporalmente el acceso al servicio.
+. El modelo cliente-servidor es una de las bases de muchos sistemas informáticos modernos.
 
 **VENTAJAS**
-Facilita compartir información.
-Permite centralizar los datos.
-Hace posible atender a muchos usuarios.
-Facilita la administración de recursos.
-Permite actualizar información desde un punto central.
-Puede mejorar la seguridad al controlar el acceso desde el servidor.
+
+. Facilita compartir información.
+. Permite centralizar los datos.
+. Hace posible atender a muchos usuarios.
+. Facilita la administración de recursos.
+. Permite actualizar información desde un punto central.
+. Puede mejorar la seguridad al controlar el acceso desde el servidor.
 
 **DESENTAJAS**
-Si el servidor presenta problemas, puede afectar a muchos clientes.
-Mantener servidores puede ser costoso.
-Necesita una red para comunicarse.
-Un servidor sobrecargado puede hacer que el servicio sea lento.
+
+. Si el servidor presenta problemas, puede afectar a muchos clientes.
+. Mantener servidores puede ser costoso.
+. Necesita una red para comunicarse.
+. Un servidor sobrecargado puede hacer que el servicio sea lento.
 
 **EN RESUMEN**
 El modelo cliente-servidor es una arquitectura en la que un cliente solicita información o servicios y un servidor procesa esas solicitudes y proporciona una respuesta. Es fundamental para el funcionamiento de páginas web, aplicaciones, plataformas educativas, sistemas empresariales y muchos otros servicios digitales. Su principal ventaja es que permite centralizar información y atender a numerosos usuarios desde un servidor.
