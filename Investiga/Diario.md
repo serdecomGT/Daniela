@@ -45,7 +45,6 @@ Aseguré que el archivo quedara adecuadamente estructurado y organizado para fac
 Durante este proceso presté atención a la presentación del documento, procurando que los contenidos fueran fáciles de localizar y que cada tema estuviera separado correctamente.
 
 ### Horario de: 1:30 p.m. a 5:00 p.m.
-Actividades realizadas
 
 Durante la segunda parte de la jornada continué trabajando en el contenido del archivo principal. En este período me enfoqué principalmente en ampliar la información de los diferentes temas para que el documento no se limitara únicamente a definiciones, sino que contara con explicaciones más completas.
 
