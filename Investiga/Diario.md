@@ -60,3 +60,23 @@ El cuestionario correspondiente a los temas trabajados todavía no fue elaborado
 La elaboración del cuestionario quedó pendiente para continuarla posteriormente en horas de la noche, una vez finalizada la recopilación y organización de los contenidos necesarios para formular correctamente las preguntas.
 
 Al finalizar la jornada, se logró avanzar considerablemente en la organización y ampliación del archivo principal, dejando estructurada la información de los temas asignados y preparada para continuar con las siguientes actividades del proyecto.
+
+# JUEVES 3  DE SEPTIEMBRE
+
+8:00 a.m. — 12:30 p.m.
+
+Al llegar a las 8:00 de la mañana me puse a trabajar en los cuestionarios que don Carlos nos había dejado como tarea. Comencé revisando cada uno de los cuestionarios y las preguntas que debía responder para ir avanzando de manera ordenada. Como la indicación era responder con nuestras propias palabras, primero revisaba la información que ya tenía de las sesiones anteriores para poder contestar las preguntas.
+
+En las preguntas cuyos temas recordaba, escribía las respuestas utilizando mis propias palabras y tratando de que fueran claras y fáciles de comprender. Cuando encontraba alguna pregunta cuya respuesta no recordaba o no sabía, buscaba información en Google para poder comprender mejor el tema y responder correctamente. Después de encontrar la información necesaria, la revisaba y la explicaba con mis propias palabras, evitando copiarla directamente.
+
+Durante toda la mañana me mantuve trabajando en los diferentes cuestionarios, pasando de una pregunta a otra y buscando información cuando era necesario. Algunas preguntas me tomaron más tiempo debido a que tenía que investigar primero el concepto antes de poder responderlo. También fui revisando las respuestas conforme avanzaba para asegurarme de que estuvieran completas y relacionadas con lo que se preguntaba.
+
+Continué trabajando en esta actividad hasta las 12:30 p.m., cuando salí a almorzar.
+
+1:30 p.m. — 5:00 p.m.
+
+Regresé a la 1:30 p.m. y continué trabajando en los cuestionarios que todavía tenía pendientes. Retomé las preguntas que me faltaban y seguí utilizando el mismo método: revisar primero las tareas y responder con mis propias palabras, y cuando no conocía algún concepto, buscar información en Google para poder completar correctamente la respuesta.
+
+Durante la tarde logré avanzar bastante y fui terminando uno por uno los cuestionarios que tenía asignados. También aproveché el tiempo para revisar algunas respuestas y corregir detalles para que todo quedara más ordenado y claro. Al finalizar la jornada solamente me faltaba un cuestionario por terminar, por lo que pude completar la mayor parte del trabajo que tenía pendiente.
+
+Al finalizar el día, había avanzado considerablemente con los cuestionarios y dejado únicamente uno pendiente, además de haber comenzado la preparación para la exposición del día siguiente.
