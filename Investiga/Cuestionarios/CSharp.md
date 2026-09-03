@@ -53,7 +53,6 @@ for (int i = 1; i <= 5; i++)
 }
 
 11. ¿Qué es un método en C#? Escribe un ejemplo de un método que reciba dos números y devuelva su suma.
-
 Es un bloque de código que realiza una tarea específica.
 
 int Sumar(int a, int b)
@@ -64,7 +63,6 @@ int Sumar(int a, int b)
 ## Sección C — Programación Orientada a Objetos
 
 12. ¿Qué es una clase en C#? Escribe un ejemplo básico.
-
 Es un modelo o plantilla para crear objetos.
 
 class Persona
@@ -73,44 +71,35 @@ class Persona
 }
 
 13. ¿Qué es un objeto y cómo se relaciona con una clase?
-
 Es una instancia de una clase. La clase es el modelo y el objeto es algo creado a partir de ese modelo.
 
 14. Explica con tus propias palabras los conceptos de **encapsulamiento**, **herencia** y **polimorfismo**.
-
 Encapsulamiento: protege los datos de una clase.
 Herencia: permite que una clase herede características de otra.
 Polimorfismo: permite que un mismo método tenga diferentes comportamientos.
 
 15. ¿Qué son los modificadores de acceso `public`, `private` y `protected`? ¿Cuándo usarías cada uno?
-
 public: accesible desde cualquier lugar.
 private: solo dentro de la clase.
 protected: dentro de la clase y sus clases derivadas.
 
 16. ¿Qué es un constructor y para qué sirve?
-
 Es un método especial que se ejecuta al crear un objeto y sirve para inicializarlo.
 
 ## Sección D — Conceptos adicionales
 
 17. ¿Qué es un `namespace` y por qué es útil?
-
 Es una forma de organizar clases y evitar conflictos entre nombres.
 
 18. ¿Qué son las excepciones en C#? ¿Cómo se manejan?
-
 Son errores que pueden ocurrir durante la ejecución. Se manejan principalmente con **try, catch y finally**.
 
 19. ¿Qué es LINQ y para qué se utiliza?
-
 Es una herramienta de Csharp que permite consultar y organizar datos fácilmente.
 
 20. ¿Conoces algún IDE o editor de código para programar en C#? ¿Cuál has utilizado?
-
 No
 
 ## Sección E — Pregunta reflexiva
-
 21. ¿En qué situaciones considerarías que C# es una buena elección frente a otros lenguajes como Python o Java?
 Cshap es una buena opción para aplicaciones web, empresariales, de escritorio, videojuegos y proyectos que utilizan .NET.
