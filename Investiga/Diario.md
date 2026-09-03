@@ -3,6 +3,8 @@
 
 ## Martes 1 de septiembre 
 
+***actividades realizadas***
+
 El día de hoy inicié mis prácticas con Don Carlos. La jornada comenzó a las **8:00 de la mañana**. Para iniciar, Don Carlos nos dio la bienvenida y posteriormente tuvimos una conversación acerca de la carrera que estamos estudiando. También nos explicó y comentó sobre las actividades que realizaríamos durante este mes de prácticas junto con mi compañera **Aide Rubio**.
 
 Después de habernos explicado sobre la carrera y las actividades que realizaríamos durante el mes, Don Carlos nos indicó los diferentes temas que debíamos investigar. Además, nos proporcionó un pequeño resumen de cada uno de ellos para que pudiéramos tener una idea general y comprender de qué trataba cada tema. Los temas debíamos complementarlos nosotros mismos mediante la investigación, agregando información importante y procurando comprender el contenido.
@@ -62,6 +64,8 @@ La elaboración del cuestionario quedó pendiente para continuarla posteriorment
 Al finalizar la jornada, se logró avanzar considerablemente en la organización y ampliación del archivo principal, dejando estructurada la información de los temas asignados y preparada para continuar con las siguientes actividades del proyecto.
 
 ## JUEVES 3  DE SEPTIEMBRE
+
+***Actividades realizadas***
 
 **8:00 a.m. — 12:30 p.m.**
 
