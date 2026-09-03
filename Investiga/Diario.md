@@ -63,7 +63,7 @@ Al finalizar la jornada, se logró avanzar considerablemente en la organización
 
 # JUEVES 3  DE SEPTIEMBRE
 
-8:00 a.m. — 12:30 p.m.
+**8:00 a.m. — 12:30 p.m.**
 
 Al llegar a las 8:00 de la mañana me puse a trabajar en los cuestionarios que don Carlos nos había dejado como tarea. Comencé revisando cada uno de los cuestionarios y las preguntas que debía responder para ir avanzando de manera ordenada. Como la indicación era responder con nuestras propias palabras, primero revisaba la información que ya tenía de las sesiones anteriores para poder contestar las preguntas.
 
@@ -73,7 +73,7 @@ Durante toda la mañana me mantuve trabajando en los diferentes cuestionarios, p
 
 Continué trabajando en esta actividad hasta las 12:30 p.m., cuando salí a almorzar.
 
-1:30 p.m. — 5:00 p.m.
+**1:30 p.m. — 5:00 p.m.**
 
 Regresé a la 1:30 p.m. y continué trabajando en los cuestionarios que todavía tenía pendientes. Retomé las preguntas que me faltaban y seguí utilizando el mismo método: revisar primero las tareas y responder con mis propias palabras, y cuando no conocía algún concepto, buscar información en Google para poder completar correctamente la respuesta.
 
