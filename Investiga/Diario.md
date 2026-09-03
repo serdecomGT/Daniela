@@ -61,7 +61,7 @@ La elaboración del cuestionario quedó pendiente para continuarla posteriorment
 
 Al finalizar la jornada, se logró avanzar considerablemente en la organización y ampliación del archivo principal, dejando estructurada la información de los temas asignados y preparada para continuar con las siguientes actividades del proyecto.
 
-# JUEVES 3  DE SEPTIEMBRE
+## JUEVES 3  DE SEPTIEMBRE
 
 **8:00 a.m. — 12:30 p.m.**
 
