@@ -47,6 +47,4 @@ erDiagram
     CATEGORIA ||--o{ ACTIVIDAD : "clasifica"
     ACTIVIDAD ||--o{ ASISTENCIA : "registra"
     MIEMBRO ||--o{ ASISTENCIA : "participa"
-
-   ...
 ```
