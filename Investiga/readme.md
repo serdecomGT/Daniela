@@ -1,4 +1,4 @@
-Temas de investigación:
+# Temas de investigación:
 1. Arquitectura Cliente-Servidor
 2. CSharp
 3. Blazor
