@@ -2,20 +2,20 @@
 erDiagram
 
     GRUPO {
-        int GrupoID PK
         string Nombre
         string Descripcion
         string Organizacion
-        int IdEncargado
+        int EncargadoId
     }
 
     MIEMBRO {
         int MiembroID PK
-        int GrupoID FK
         string Nombres
         string Apellidos
         date FechaNacimiento
         string Identificacion
+        string Residencia
+        string Telefono
     }
 
     CATEGORIA {
@@ -26,7 +26,6 @@ erDiagram
 
     ACTIVIDAD {
         int ActividadID PK
-        int GrupoID FK
         int CategoriaID FK
         string Nombre
         string Descripcion
@@ -40,12 +39,9 @@ erDiagram
         int ActividadID FK
         int MiembroID FK
         date FechaRegistro
-        string Estado
         string Observaciones
     }
 
-    GRUPO ||--o{ MIEMBRO : "tiene"
-    GRUPO ||--o{ ACTIVIDAD : "organiza"
     CATEGORIA ||--o{ ACTIVIDAD : "clasifica"
     ACTIVIDAD ||--o{ ASISTENCIA : "registra"
     MIEMBRO ||--o{ ASISTENCIA : "participa"
