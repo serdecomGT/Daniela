@@ -1,4 +1,4 @@
-# Una aplicación para el control de asistencia de los integrantes de un grupo a las actividades agrupadas por categoría
+# Una aplicación para el control de asistencia de los integrantes de un grupo a las actividades adscritas a categorías
 
 ¿Qué información nos tiene que dar la aplicación?
 
