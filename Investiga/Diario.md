@@ -84,3 +84,5 @@ Regresé a la 1:30 p.m. y continué trabajando en los cuestionarios que todavía
 Durante la tarde logré avanzar bastante y fui terminando uno por uno los cuestionarios que tenía asignados. También aproveché el tiempo para revisar algunas respuestas y corregir detalles para que todo quedara más ordenado y claro. Al finalizar la jornada solamente me faltaba un cuestionario por terminar, por lo que pude completar la mayor parte del trabajo que tenía pendiente.
 
 Al finalizar el día, había avanzado considerablemente con los cuestionarios y dejado únicamente uno pendiente, además de haber comenzado la preparación para la exposición del día siguiente.
+
+Regresando de mis practicas me puse a trabajar o más bien a repasar mis temas que me tocan exponer el día de mañana, posteriormente me puse a terminar el último cuestionario que me hacia falte, trabajando desde las 8:00 hasta las 11:20 
