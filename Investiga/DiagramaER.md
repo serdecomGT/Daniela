@@ -5,6 +5,8 @@ erDiagram
         int GrupoID PK
         string Nombre
         string Descripcion
+        string Organizacion
+        int IdEncargado
     }
 
     MIEMBRO {
