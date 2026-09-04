@@ -1,20 +1,16 @@
-# Una aplicación para el control de asistencia de un grupo
-¿Qué nos tiene que dar de información?
-1. la app nos tiene que decir quienes asistieron a x actividad.
-2. quienes asistieron a las actividades de cierta categoría. 
-3. quienes fueron a todas las actividades.
-4. cantidad de asistencia por categoría. 
+# Una aplicación para el control de asistencia de los integrantes de un grupo a las actividades agrupadas por categoría
 
-los 4 reportes a un rango de tiempo 
+¿Qué información nos tiene que dar la aplicación?
 
+1. ¿Quiénes asistieron a determinada actividad?
+2. ¿Quiénes y cuántas veces asistieron a las actividades de determinada categoría?
+3. ¿Quiénes y cuántas veces asistieron a todas las actividades?
+4. ¿Cantidad de asistentes por categoría?
 
-las app que se utilizaran
-Base de datos SQLite 
-Blazor 
-MAUI
-CSharp
+La información será requerida en un período de tiempo, ejemplo: del 15/01/2026 al 20/08/2026.
 
-## prompt
+Stack: Base de datos SQLite, Blazor, .NET MAUI, CSharp
 
-Dame un plan, no escribas ninguna línea de código; para desarrollar una aplicación móvil multi plataforma en local utilizando CSharp, Blazor, MAUI, SQLite porque necesito llevar el control de asistencia de los integrantes de un grupo que realiza varias actividades en el tiempo y se quiere saber quienes de los integrantes del grupo asistieron a una determinada actividad; se necesita saber quienes y cuantas veces asistieron a las actividades de determinada categoría; se necesita saber también quienes y cuantea veces asistieron a todas las actividades y necesito saber cuantos asistieron por categotía. Toma nota que esta infomación se va a pedir por un rango de fechas especificas. Cada grupo va tener un encargado y cada grupo va a pertenecer a una organización y eso debe quedar registrado a la configuración de la aplición. Se requiere que los encargado del grupo y los integrantes del mismo queden registrado con nombres y apellidos, dirección de residencia y un número de télefono.
+## PROMPT
 
+Dame un plan, no escribas ninguna línea de código; para desarrollar una aplicación móvil multiplataforma en local utilizando CSharp, Blazor, MAUI, SQLite porque necesito llevar el control de asistencia de los integrantes de un grupo que realiza varias actividades agrupadas por categoría en el tiempo y se quiere saber quiénes de los integrantes del grupo asistieron a una determinada actividad; se necesita saber quiénes y cuántas veces asistieron a las actividades de determinada categoría; se necesita saber también quiénes y cuántas veces asistieron a todas las actividades y necesito saber cuántos asistieron por categoría. Toma nota que esta información se va a pedir por un rango de fechas especificas. Cada grupo va tener un encargado que se tomará de uno de los integrantes del grupo y cada grupo va a pertenecer a una organización y eso debe quedar registrado en la configuración de la aplicación. Se requiere que el encargado del grupo y los integrantes del mismo queden registrado con nombres y apellidos, dirección de residencia y fundamentalmente, un número de teléfono.
