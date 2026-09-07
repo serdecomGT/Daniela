@@ -2,7 +2,7 @@
 
 **Nombre del entrevistado:** Daniela Alejandra lópez de león 
 
-**Fecha:** 6 de septiembre 
+**Fecha:** 7 de septiembre 
 **Nivel de experiencia:** Principiante
 
 ---
