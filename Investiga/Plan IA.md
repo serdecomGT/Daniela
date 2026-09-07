@@ -1,6 +1,16 @@
-# Plan de desarrollo de la aplicación
+Entidades: 
+1. grupo = Daniela 
+2. participante = Daniela
+3. categoría de actividad = Aide
+4. Actividad = Aide
+5. Registro de asistencia = Pendiente 
+
+### Nota: Investigar visual studio
+
+# AsisGru
 
 ## versión 2
+
 Plan para la aplicación de control de asistencia
 1. Objetivo general
 
