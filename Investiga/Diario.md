@@ -86,3 +86,14 @@ Durante la tarde logré avanzar bastante y fui terminando uno por uno los cuesti
 Al finalizar el día, había avanzado considerablemente con los cuestionarios y dejado únicamente uno pendiente, además de haber comenzado la preparación para la exposición del día siguiente.
 
 Regresando de mis practicas me puse a trabajar o más bien a repasar mis temas que me tocan exponer el día de mañana, posteriormente me puse a terminar el último cuestionario que me hacia falte, trabajando desde las 8:00 hasta las 11:20 
+
+## Viernes 4 de septiembre 
+El día de hoy iniciamos nuestras actividades a las 8:00 de la mañana, comenzando con el ensayo de los diferentes temas que teníamos preparados para exponer. Durante toda la mañana nos dedicamos a repasar la información, leer nuestros apuntes y practicar la manera en que explicaríamos cada tema frente a los demás. También aprovechamos este tiempo para organizar mejor nuestras ideas, recordar los puntos más importantes y prepararnos para poder expresarnos de una manera clara durante la exposición.
+
+A medida que avanzaba la mañana, continuamos practicando y tomando apuntes sobre aquellos aspectos que considerábamos importantes o que todavía necesitábamos reforzar. El ensayo nos ayudó a identificar algunas partes que debíamos mejorar, por lo que repetimos varias veces la explicación de los temas para sentirnos más preparados y tener mayor seguridad al momento de exponer. De esta manera, la mañana pasó principalmente entre repasos, apuntes y prácticas.
+
+A las 12:30 del mediodía salimos a almorzar y tuvimos un descanso. Después, regresamos nuevamente a las 1:30 de la tarde para continuar con las actividades. Al regresar seguimos ensayando los temas y revisando nuestros apuntes, tratando de mejorar la forma en que presentaríamos la información. También nos preparamos para comenzar finalmente con las exposiciones, repasando por última vez los puntos principales.
+
+A las 3:15 de la tarde comenzamos con la exposición de los temas que habíamos estado preparando durante la jornada. Cada uno tuvo la oportunidad de presentar la información y poner en práctica todo lo que había repasado durante los ensayos. Las exposiciones se extendieron hasta aproximadamente las 4:40 de la tarde, momento en el que dimos por finalizada esta actividad.
+
+Al terminar, debido a que la lluvia estaba muy fuerte, decidimos regresar a nuestras casas para evitar cualquier inconveniente durante el camino. De esta manera, finalizamos las actividades del día después de una jornada en la que dedicamos gran parte del tiempo a prepararnos, practicar y finalmente presentar los temas que habíamos estudiado.
