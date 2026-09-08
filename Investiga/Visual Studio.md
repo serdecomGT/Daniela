@@ -64,7 +64,7 @@ Cuando presionas Compilar, Visual Studio revisa y procesa el código para conver
 Si encuentra errores, muestra mensajes indicando qué parte del código necesita corregirse.
 
 5. Ejecutar
-Después puedes ejecutar el programa utilizando el botón Iniciar o el botón de reproducción ▶️.
+Después puedes ejecutar el programa utilizando el botón Iniciar o el botón de reproducción.
 
 Por ejemplo, si ejecutas:
 
