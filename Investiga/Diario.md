@@ -101,6 +101,7 @@ Al terminar, debido a que la lluvia estaba muy fuerte, decidimos regresar a nues
 ## Lunes 8 de septiembre 
 
 *Actividades realizada*
+
 El día de hoy inicié mis prácticas a las 8:00 a.m. respondiendo un cuestionario, el cual me tomó bastante tiempo debido a que contenía una gran cantidad de preguntas. Después de avanzar con el cuestionario, comencé a revisar junto con mi compañera lo que íbamos a programar, leyendo y analizando las indicaciones para tener una mejor idea de las actividades que realizaríamos.
 
 A pesar de que todavía nos faltaban algunas actividades por completar, llegó la 1:00 p.m., por lo que salimos a almorzar. Regresamos a las 2:00 p.m. para continuar avanzando con el trabajo y seguir desarrollando los temas que teníamos pendientes.
@@ -110,3 +111,15 @@ Durante la tarde, nos enfocamos en organizar y componer los temas que trabajarí
 Después de instalar la aplicación, empezamos a trabajar en la parte visual, analizando diferentes ideas para el logo de la aplicación y definiendo los colores que utilizaríamos para darle una apariencia más organizada y adecuada al proyecto.
 
 Finalmente, continuamos revisando los detalles y dejamos encaminadas las actividades realizadas durante el día, terminando así nuestra jornada de prácticas a las 5:00 pm.
+
+## Martes 9 de septiembre 
+
+El día de hoy comencé mis actividades a las 8:00 de la mañana, iniciando con la revisión del proyecto que llevaríamos a cabo. Primero me tomé el tiempo para leer y analizar la información, con el objetivo de comprender mejor las actividades que realizaríamos durante el desarrollo del proyecto.
+
+Después de revisar el proyecto, apoyé al trabajador Gerson en una actividad que necesitaba realizar, la cual consistía en pelar algunos cables que utilizaría posteriormente. Al finalizar, ayudé a buscar algunos elementos y recursos necesarios para el equipo que mi compañera Aide se encontraba instalando.
+
+Posteriormente, revisamos la aplicación que utilizaríamos para desarrollar nuestro proyecto, llegando a la conclusión de que trabajaríamos con Visual Studio. Durante este tiempo también estuvimos revisando nuevamente el proyecto y analizando los pasos que debíamos seguir para comenzar con el desarrollo.
+
+A las 12:30 del mediodía salimos a almorzar y regresamos a las 1:30 de la tarde. Al regresar, continuamos trabajando en el proyecto, leyendo y revisando nuevamente la información para tener una mejor comprensión de lo que debíamos realizar. Después de analizar los requerimientos, comenzamos a avanzar con las primeras actividades relacionadas con el desarrollo del proyecto.
+
+Finalmente, antes de terminar la jornada, actualicé mi diario de actividades, dejando registrado el trabajo realizado durante el día. De esta manera, di por finalizadas mis actividades a las 5:00 de la tarde.
