@@ -10,7 +10,7 @@ Entidades:
 # Plan para el desarrollo de la aplicación de control de asistencia de participantes de grupos de diverso tipo, que se llamara AsisGru
 
 ## versión 2
-
+#### Justificación 
 Plan para la aplicación de control de asistencia
 1. Objetivo general
 
