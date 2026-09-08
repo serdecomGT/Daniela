@@ -99,6 +99,8 @@ A las 3:15 de la tarde comenzamos con la exposición de los temas que habíamos 
 Al terminar, debido a que la lluvia estaba muy fuerte, decidimos regresar a nuestras casas para evitar cualquier inconveniente durante el camino. De esta manera, finalizamos las actividades del día después de una jornada en la que dedicamos gran parte del tiempo a prepararnos, practicar y finalmente presentar los temas que habíamos estudiado.
 
 ## Lunes 8 de septiembre 
+
+*Actividades realizada*
 El día de hoy inicié mis prácticas a las 8:00 a.m. respondiendo un cuestionario, el cual me tomó bastante tiempo debido a que contenía una gran cantidad de preguntas. Después de avanzar con el cuestionario, comencé a revisar junto con mi compañera lo que íbamos a programar, leyendo y analizando las indicaciones para tener una mejor idea de las actividades que realizaríamos.
 
 A pesar de que todavía nos faltaban algunas actividades por completar, llegó la 1:00 p.m., por lo que salimos a almorzar. Regresamos a las 2:00 p.m. para continuar avanzando con el trabajo y seguir desarrollando los temas que teníamos pendientes.
