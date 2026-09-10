@@ -120,6 +120,17 @@ Después de revisar el proyecto, apoyé al trabajador Gerson en una actividad qu
 
 Posteriormente, revisamos la aplicación que utilizaríamos para desarrollar nuestro proyecto, llegando a la conclusión de que trabajaríamos con Visual Studio. Durante este tiempo también estuvimos revisando nuevamente el proyecto y analizando los pasos que debíamos seguir para comenzar con el desarrollo.
 
-A las 12:30 del mediodía salimos a almorzar y regresamos a las 1:30 de la tarde. Al regresar, continuamos trabajando en el proyecto, leyendo y revisando nuevamente la información para tener una mejor comprensión de lo que debíamos realizar. Después de analizar los requerimientos, comenzamos a avanzar con las primeras actividades relacionadas con el desarrollo del proyecto.
+A las 12:30 del mediodía salimos a almorzar y regresamos a la 1:30 de la tarde. Al regresar, continuamos trabajando en el proyecto, leyendo y revisando nuevamente la información para tener una mejor comprensión de lo que debíamos realizar. Después de analizar los requerimientos, comenzamos a avanzar con las primeras actividades relacionadas con el desarrollo del proyecto.
 
 Finalmente, antes de terminar la jornada, actualicé mi diario de actividades, dejando registrado el trabajo realizado durante el día. De esta manera, di por finalizadas mis actividades a las 5:00 de la tarde.
+
+## Miércoles 9 de septiembre 
+El día de hoy comencé mis actividades a las 8:00 de la mañana, iniciando con el proyecto en Visual Studio. Al comenzar a trabajar, observé que el programa presentaba varios errores y fallas, por lo que durante la mañana me dediqué a intentar solucionarlos. Sin embargo, no fue posible corregirlos por completo, lo que dificultó avanzar con el proyecto y limitó las actividades que pude realizar durante ese período.
+
+A las 12:30 del mediodía salí a la hora del almuerzo y regresé nuevamente a la 1:30 de la tarde. Al regresar, encendí un equipo que habían llevado para posteriormente continuar con el trabajo de programación. Más adelante llegó Gerson para ayudar a encender y revisar el equipo, ya que se necesitaba verificar un problema que presentaba la pantalla, la cual se apagaba varias veces.
+
+Para comprobar el comportamiento del equipo, dejamos reproduciendo un video durante un período de tiempo y observamos cuántas veces el equipo presentaba fallas o se trababa. Después de realizar esta prueba, retomamos el proyecto de **AsisGrup**, comenzando nuevamente desde cero para revisar detalladamente el trabajo realizado. Durante este proceso fuimos verificando y corrigiendo los diferentes errores que se presentaban, con el objetivo de lograr que el proyecto funcionara correctamente y poder continuar avanzando.
+
+Aunque no fue posible completar todo el proyecto durante el día, sí logramos avanzar considerablemente en su desarrollo y corregir varios de los errores que estaban afectando su funcionamiento. Finalmente, intentamos apagar el equipo que habíamos estado revisando, pero este presentó otro inconveniente, ya que no quería apagarse correctamente.
+
+De esta manera, finalicé mis actividades del día a las **5:00 de la tarde**, dejando pendiente continuar con el proyecto y seguir revisando los problemas que aún presentaba el equipo.
