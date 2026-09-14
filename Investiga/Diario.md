@@ -98,6 +98,10 @@ A las 3:15 de la tarde comenzamos con la exposición de los temas que habíamos 
 
 Al terminar, debido a que la lluvia estaba muy fuerte, decidimos regresar a nuestras casas para evitar cualquier inconveniente durante el camino. De esta manera, finalizamos las actividades del día después de una jornada en la que dedicamos gran parte del tiempo a prepararnos, practicar y finalmente presentar los temas que habíamos estudiado.
 
+## Domingo 7 de septiembre
+*actividad realizada* 
+En mi casa trabaje de 6:00 pm hasta las 7:05 pm abordando el tema: Basas de datos
+
 ## Lunes 8 de septiembre 
 
 *Actividades realizada*
@@ -134,3 +138,8 @@ Para comprobar el comportamiento del equipo, dejamos reproduciendo un video dura
 Aunque no fue posible completar todo el proyecto durante el día, sí logramos avanzar considerablemente en su desarrollo y corregir varios de los errores que estaban afectando su funcionamiento. Finalmente, intentamos apagar el equipo que habíamos estado revisando, pero este presentó otro inconveniente, ya que no quería apagarse correctamente.
 
 De esta manera, finalicé mis actividades del día a las **5:00 de la tarde**, dejando pendiente continuar con el proyecto y seguir revisando los problemas que aún presentaba el equipo.
+
+## Permiso especial
+El día jueves 10 y el día viernes 11 de septiembre solicité un permiso especial para ausentarme de las prácticas, debido a que me encontraba presentando quebrantos de salud que me impedían realizar mis actividades con normalidad. La situación fue informada oportunamente, procurando mantener la comunicación y responsabilidad correspondiente con respecto a las horas de práctica.
+
+Asimismo, se acordó retomar las actividades el día lunes 14 de septiembre y reponer las horas que no fueron realizadas durante los días de ausencia. Para ello, se estableció compensar el tiempo perdido los días martes 15 y jueves 16 de septiembre, con el propósito de cumplir con las horas establecidas y continuar con las actividades asignadas sin afectar el desarrollo de la práctica.
