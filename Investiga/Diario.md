@@ -143,3 +143,21 @@ De esta manera, finalicé mis actividades del día a las **5:00 de la tarde**, d
 El día jueves 10 y el día viernes 11 de septiembre solicité un permiso especial para ausentarme de las prácticas, debido a que me encontraba presentando quebrantos de salud que me impedían realizar mis actividades con normalidad. La situación fue informada oportunamente, procurando mantener la comunicación y responsabilidad correspondiente con respecto a las horas de práctica.
 
 Asimismo, se acordó retomar las actividades el día lunes 14 de septiembre y reponer las horas que no fueron realizadas durante los días de ausencia. Para ello, se estableció compensar el tiempo perdido los días martes 15 y jueves 16 de septiembre, con el propósito de cumplir con las horas establecidas y continuar con las actividades asignadas sin afectar el desarrollo de la práctica.
+
+## Lunes 14 de septiembre 
+El día de hoy comencé mi jornada de prácticas a las 8:00 de la mañana, retomando el desarrollo de la aplicación en Visual Studio. Durante la mañana me dediqué principalmente a realizar diferentes procesos de programación y a revisar detalladamente el código, ya que se presentaban varios errores que impedían que la aplicación funcionara correctamente. Por ello, fue necesario analizar cada uno de los problemas, realizar modificaciones y hacer diferentes pruebas para comprobar que los cambios realizados fueran solucionando las fallas encontradas.
+
+A lo largo de la mañana continué trabajando en la corrección de estos errores y revisando el funcionamiento de las diferentes partes de la aplicación. Aunque algunos inconvenientes requirieron más tiempo de lo esperado, poco a poco fui logrando que el proyecto avanzara y que algunas de sus funciones comenzaran a trabajar de una mejor manera.
+
+A las 12:30 del mediodía salí a almorzar, regresando nuevamente a las 1:30 de la tarde para continuar con la jornada. Durante la tarde seguí trabajando en la programación y en la corrección de los errores que todavía se presentaban. También realicé varias pruebas para verificar los cambios y observar cómo iba respondiendo la aplicación.
+
+Después de varias horas de trabajo, finalmente pude observar los primeros avances más visibles de la aplicación, lo cual fue satisfactorio, ya que durante los días anteriores había estado trabajando principalmente en la solución de errores y en la configuración del proyecto. Esto me permitió tener una mejor idea de cómo estaba quedando la aplicación y de los aspectos que todavía necesitaban ser mejorados.
+
+Continué trabajando y realizando ajustes hasta finalizar mi jornada. Sin darme cuenta, llegó la hora de salida, por lo que finalicé mis actividades a las 5:00 de la tarde, dejando el proyecto con avances importantes y con la intención de continuar trabajando en las partes que aún hacen falta completar.
+
+## Miércoles 16 de septiembre
+El día de hoy inicié mis actividades a las 9:00 de la mañana, comenzando por verificar qué elementos y funciones aún hacían falta en la aplicación. Por el momento no realicé cambios importantes, ya que tuve algunas dificultades al trabajar con los dos programas que estaba utilizando y me llegué a confundir un poco con el proceso que debía seguir.
+
+También intenté cambiar la imagen de la aplicación por una versión con el fondo transparente; sin embargo, al realizar el cambio, la imagen no se mostraba correctamente y aparecía únicamente la imagen sin los demás elementos que debía contener. Debido a este inconveniente, tuve que volver a colocar la imagen anterior para evitar afectar el funcionamiento y la apariencia de la aplicación.
+
+Tomé mi hora de almuerzo de 1:20 a 2:20 de la tarde. Al regresar, continué revisando el proyecto y verificando qué aspectos todavía estaban pendientes, con la intención de seguir realizando las modificaciones necesarias y poder agregar los elementos que aún hacen falta en la aplicación, avanzando poco a poco en el desarrollo del proyecto.
