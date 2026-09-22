@@ -168,3 +168,14 @@ El día de hoy comencé mis actividades a las **8:00 de la mañana**, iniciando 
 A las **12:40 del mediodía** salí a almorzar, regresando nuevamente a las **1:40 de la tarde** para continuar con las actividades. Durante la jornada de la tarde seguí trabajando en la programación y en la corrección de los errores encontrados, realizando cambios y comprobando que las modificaciones permitieran un mejor funcionamiento de la aplicación. También continué revisando diferentes partes del proyecto para poder avanzar poco a poco en su desarrollo y evitar que los errores afectaran otras funciones.
 
 Finalmente, después de continuar trabajando y realizando las respectivas correcciones, terminé mis actividades a **las 5:00 de la tarde**, dejando avances en el desarrollo y corrección del proyecto.
+
+
+## Martes 22 de septiembre
+
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando por revisar nuevamente la aplicación y verificar el estado en el que se encontraba. Durante toda la mañana estuve trabajando en diferentes partes del proyecto, realizando correcciones, modificaciones y ajustes en aquellos elementos que presentaban errores o que no estaban funcionando de la manera esperada.
+
+Continué trabajando hasta la **1:00 de la tarde**, momento en el que salí a almorzar, regresando nuevamente a las **2:00 de la tarde** para continuar con las actividades programadas. Durante la tarde seguí trabajando en la aplicación, agregando diferentes clases que se encontraban dentro de las carpetas del proyecto, con el objetivo de integrar correctamente sus funciones y lograr que los distintos componentes trabajaran de manera adecuada.
+
+Después de realizar estos cambios, la aplicación comenzó a funcionar correctamente y se logró que los registros que se llevarían a cabo dentro de ella pudieran guardarse de manera adecuada. Esto permitió observar un avance importante en el funcionamiento del proyecto, ya que algunas de las funciones principales comenzaron a responder como se esperaba.
+
+Finalmente, continué realizando pruebas y verificando que los cambios realizados no generaran nuevos errores, terminando mis actividades a las **5:00 de la tarde**.
