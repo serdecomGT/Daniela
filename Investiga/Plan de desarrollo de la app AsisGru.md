@@ -127,7 +127,7 @@ Estado
 
 La relación entre participante y actividad permite evitar que se registre dos veces la asistencia de una misma persona para una misma actividad.
 
-##4. Organización del desarrollo
+## 4. Organización del desarrollo
 
 El desarrollo de AsisGru se realizó de manera progresiva, comenzando con la estructura de la aplicación y posteriormente incorporando los diferentes módulos.
 
