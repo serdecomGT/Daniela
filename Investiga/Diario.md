@@ -179,3 +179,13 @@ Continué trabajando hasta la **1:00 de la tarde**, momento en el que salí a al
 Después de realizar estos cambios, la aplicación comenzó a funcionar correctamente y se logró que los registros que se llevarían a cabo dentro de ella pudieran guardarse de manera adecuada. Esto permitió observar un avance importante en el funcionamiento del proyecto, ya que algunas de las funciones principales comenzaron a responder como se esperaba.
 
 Finalmente, continué realizando pruebas y verificando que los cambios realizados no generaran nuevos errores, terminando mis actividades a las **5:00 de la tarde**.
+
+## Miércoles 23 de septiembre
+
+El día de hoy inicié mis actividades desde las 8:00 de la mañana, comenzando nuevamente con el desarrollo y revisión de la aplicación AsisGru. Durante toda la mañana estuve trabajando principalmente en la programación, realizando diferentes ajustes, corrigiendo algunos detalles y verificando que las funciones que ya se habían realizado trabajaran correctamente.
+
+Conforme fui avanzando, pude notar que la aplicación ya se encontraba casi finalizada, por lo que aproveché el tiempo para revisar los últimos detalles y realizar pequeñas modificaciones necesarias para que todo quedara funcionando de una mejor manera. También estuve comprobando que las diferentes partes de la aplicación mantuvieran una correcta relación entre sí y que los cambios realizados anteriormente no ocasionaran nuevos errores.
+
+A las 12:30 del mediodía salí a almorzar y regresé nuevamente a las 1:30 de la tarde para continuar con el trabajo. Durante la tarde seguí enfocándome en la aplicación, revisando los módulos y corrigiendo los últimos detalles que aún estaban pendientes. Poco a poco fui dejando la aplicación más completa y organizada, logrando avanzar bastante y acercándome cada vez más a finalizar el proyecto.
+
+La tarde prácticamente se me fue entre programación, revisiones y correcciones JAJAJA, porque cuando ya parecía que todo estaba terminado siempre aparecía algún pequeño detalle que revisar. Finalmente, después de continuar trabajando y dejar la aplicación en una etapa bastante avanzada, terminé mis actividades a las 5:00 de la tarde.
