@@ -195,3 +195,11 @@ El día de hoy inicié mi jornada a las 9:00 de la mañana, teniendo un pequeño
 
 ## Viernes 25 de septiembre
 Trabaje una hora en la madrugada con la aplicación de visual studio de 12 para la 1 de la madrugada, haciendo correcciones para poder terminar en la mañana 
+
+El día de hoy inicié mi jornada de prácticas a las 8:00 de la mañana, continuando con el desarrollo de la aplicación y realizando los últimos cambios que se tenían pendientes. Durante la mañana se fueron realizando diferentes ajustes y correcciones para lograr que la aplicación funcionara de la manera esperada. Después de realizar las modificaciones necesarias, se logró completar la mayor parte del trabajo, aunque fue necesario hacer algunos cambios adicionales para mejorar su funcionamiento y presentación.
+
+A las 12:30 del mediodía salí a almorzar y regresé nuevamente a la 1:30 de la tarde para continuar con las actividades. Durante la tarde realicé los últimos retoques y posteriormente procedí a probar la aplicación para verificar que todo funcionara correctamente. Después de realizar las pruebas correspondientes, se comprobó que la aplicación funcionaba de manera adecuada y que los cambios realizados habían sido aplicados correctamente.
+
+Una vez finalizada esta parte del proyecto, comencé a investigar los procedimientos y requisitos necesarios para lograr que la aplicación también pueda ser descargada y utilizada en dispositivos con sistema operativo iOS. De esta manera, se busca ampliar la compatibilidad de la aplicación y conocer los pasos necesarios para poder distribuirla en dicho sistema operativo.
+
+Finalmente, después de continuar con la investigación y dejar registrados los avances realizados durante el día, culminé mi jornada de prácticas a las 5:00 de la tarde.
