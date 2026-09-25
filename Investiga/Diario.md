@@ -192,3 +192,6 @@ La tarde prácticamente se me fue entre programación, revisiones y correcciones
 
 ## jueves 24 de septiembre 
 El día de hoy inicié mi jornada a las 9:00 de la mañana, teniendo un pequeño retraso debido a que no contaba con un medio de transporte para trasladarme. Al llegar, comencé revisando la página web que debía realizar en Visual Studio, verificando su funcionamiento y organizando los aspectos en los que debía trabajar. A la 1:00 de la tarde salí a almorzar y regresé a las 2:00, continuando con las actividades pendientes. Durante la tarde me dediqué a resumir y organizar la información de mi diario de prácticas, dejando registrados los avances y actividades realizadas. Finalmente, culminé mi jornada a las 5:00 de la tarde.
+
+## Viernes 25 de septiembre
+Trabaje una hora en la madrugada con la aplicación de visual studio de 12 para la 1 de la madrugada, haciendo correcciones para poder terminar en la mañana 
