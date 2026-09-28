@@ -203,3 +203,6 @@ A las 12:30 del mediodía salí a almorzar y regresé nuevamente a la 1:30 de la
 Una vez finalizada esta parte del proyecto, comencé a investigar los procedimientos y requisitos necesarios para lograr que la aplicación también pueda ser descargada y utilizada en dispositivos con sistema operativo iOS. De esta manera, se busca ampliar la compatibilidad de la aplicación y conocer los pasos necesarios para poder distribuirla en dicho sistema operativo.
 
 Finalmente, después de continuar con la investigación y dejar registrados los avances realizados durante el día, culminé mi jornada de prácticas a las 5:00 de la tarde.
+
+## domingo 27 de septiembre
+El día de hoy trabaje 1 hora, de 7pm a 8pm para trabajar la investigación de iOS 
