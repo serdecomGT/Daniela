@@ -206,3 +206,19 @@ Finalmente, después de continuar con la investigación y dejar registrados los 
 
 ## domingo 27 de septiembre
 El día de hoy trabaje 1 hora, de 7pm a 8pm para trabajar la investigación de iOS 
+
+## Lunes 28 de septiembre
+
+El día de hoy inicié mis actividades a las 8:00 de la mañana, comenzando con el trabajo relacionado con la aplicación ASISGRU.
+
+Durante la mañana me dediqué principalmente a la elaboración del manual de usuario de la aplicación. Comencé organizando la estructura que tendría el manual y definiendo los diferentes apartados que se incluirían.
+
+Posteriormente, empecé a redactar la información correspondiente al funcionamiento de ASISGRU, explicando de manera ordenada sus principales módulos y las funciones que puede realizar el usuario dentro de la aplicación.
+
+También trabajé en las instrucciones para utilizar los módulos de configuración del grupo, participantes, categorías, actividades y registro de asistencia, procurando que las explicaciones fueran claras y fáciles de comprender.
+
+A las 12:20 del mediodía salí a almorzar y posteriormente regresé a las 1:30 de la tarde para continuar con mis actividades.
+
+Durante la tarde continué trabajando en el manual, revisando y organizando el contenido para que cada sección tuviera la información necesaria y siguiera un orden adecuado.
+
+Finalmente, después de continuar con la redacción y revisión del manual, terminé mis actividades a las 5:00 de la tarde.
