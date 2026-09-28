@@ -20,7 +20,7 @@ Por lo anterior, el objetivo de este informe es explicar de manera detallada por
 
 ASISGRU fue concebida como una aplicación móvil para el control y registro de asistencia de integrantes de grupos comunitarios, religiosos, deportivos, culturales, educativos y de otros tipos.
 
-Durante su desarrollo se utilizaron diferentes tecnologías. El lenguaje principal utilizado fue **C#**, mientras que el marco de desarrollo fue **.NET 10**, utilizando **.NET MAUI y Blazor** para la construcción de la aplicación móvil. Para almacenar la información se utilizó **SQLite**, permitiendo mantener los datos de manera local en el dispositivo.
+Durante su desarrollo se utilizaron diferentes tecnologías. El lenguaje principal utilizado fue **CSharp**, mientras que el marco de desarrollo fue **.NET 10**, utilizando **.NET MAUI y Blazor** para la construcción de la aplicación móvil. Para almacenar la información se utilizó **SQLite**, permitiendo mantener los datos de manera local en el dispositivo.
 
 La aplicación cuenta con diferentes módulos relacionados con la configuración del grupo, administración de participantes, categorías, actividades y registro de asistencia. Estos componentes fueron desarrollados y probados dentro del entorno disponible durante la práctica.
 
@@ -49,9 +49,9 @@ Esto significa que instalar .NET MAUI, C#, Visual Studio y el resto de las herra
 
 El problema puede explicarse de una manera sencilla:
 
-**Windows → permite desarrollar y compilar para Android.**
+**Windows permite desarrollar y compilar para Android.**
 
-**Mac → permite acceder a las herramientas necesarias para compilar para iOS.**
+**Mac permite acceder a las herramientas necesarias para compilar para iOS.**
 
 Por esta razón, una persona puede escribir y modificar el código de una aplicación .NET MAUI desde Windows, pero cuando llega el momento de crear la versión nativa para iPhone, necesita utilizar un equipo Mac como parte del proceso.
 
@@ -147,8 +147,7 @@ Esto significa que, además del proceso de compilación, es necesario verificar 
 
 # 7. ¿Significa esto que ASISGRU no puede utilizarse en iPhone?
 
-No.
-
+No exactamente 
 Es importante aclarar que la aplicación **no está limitada permanentemente a Android**.
 
 ASISGRU fue desarrollada utilizando .NET MAUI, una tecnología cuyo propósito es facilitar la creación de aplicaciones para diferentes plataformas a partir de un proyecto común.
@@ -173,7 +172,7 @@ De esta forma, el código desarrollado para ASISGRU puede seguir siendo la base 
 
 ---
 
-# 8. Alternativas para continuar el proyecto
+## 8. Alternativas para continuar el proyecto
 
 La ausencia de un equipo Mac propio no significa necesariamente que el proyecto tenga que detenerse.
 
@@ -182,8 +181,6 @@ Una primera alternativa consiste en continuar todo el desarrollo desde Windows y
 Una segunda alternativa consiste en utilizar temporalmente un Mac disponible y configurarlo como equipo de compilación. Microsoft permite que Visual Studio se conecte a un Mac mediante la función Pair to Mac. Para ello, el Mac debe ser accesible mediante la red y tener configurado el acceso remoto.
 
 Una tercera posibilidad es trabajar con un entorno donde se tenga acceso remoto a un Mac. En este caso, la parte de desarrollo puede continuar realizándose desde Windows, mientras que el equipo Mac se utiliza cuando sea necesario realizar tareas específicas de compilación para iOS.
-
-Lo importante es comprender que el requisito no consiste necesariamente en comprar un Mac para escribir cada línea de código. El requisito fundamental es **tener acceso a un entorno Mac cuando se necesiten las herramientas de compilación de Apple**.
 
 ---
 
