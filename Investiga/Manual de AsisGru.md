@@ -372,8 +372,6 @@ Recurso Soporte
 
 ## Orden final del manual
 
-Para que no se te desordene cuando lo pases a Word, yo usaría este orden:
-
 Portada
 Introducción
 Objetivo del manual
