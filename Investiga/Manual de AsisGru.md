@@ -251,7 +251,7 @@ El usuario debe revisar la información de cada actividad antes de realizar el r
 
 **Descripción**
 
-El módulo Registro de asistencia es una de las funciones principales de ASISGRU.
+El módulo Registro de asistencia es una de las funciones principales de AsisGru.
 
 Permite seleccionar una actividad y registrar cuáles de los participantes estuvieron presentes.
 
@@ -297,7 +297,7 @@ Finalmente, la participación de los integrantes se registra mediante Registro d
 
 Esta organización permite que el usuario pueda encontrar la información de manera más sencilla y mantener un control ordenado.
 
-## 13. RECOMENDACIONES PARA EL USO DE ASISGRU
+## 13. RECOMENDACIONES PARA EL USO DE AsisGru
 
 Para obtener un funcionamiento adecuado de la aplicación se recomienda:
 
@@ -338,11 +338,11 @@ Revise la actividad seleccionada antes de guardar el registro. Es importante sel
 
 ## 15. MÓDULO DE CRÉDITOS
 
-El módulo Créditos contiene información relacionada con el desarrollo de ASISGRU.
+El módulo Créditos contiene información relacionada con el desarrollo de AsisGru.
 
 En esta sección se puede consultar:
 
-Información general de ASISGRU.
+Información general de AsisGru.
 Equipo desarrollador.
 Institución educativa.
 Tecnologías utilizadas.
@@ -377,7 +377,7 @@ Para que no se te desordene cuando lo pases a Word, yo usaría este orden:
 Portada
 Introducción
 Objetivo del manual
-Objetivo de ASISGRU
+Objetivo de AsisGru
 Requisitos
 Inicio de la aplicación
 Configuración del grupo
