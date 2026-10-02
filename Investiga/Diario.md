@@ -248,26 +248,9 @@ Finalmente, continué realizando ajustes hasta finalizar mi jornada a las **5:00
 
 ---
 
-## MIÉRCOLES 16 DE SEPTIEMBRE DEL 2026
+## 15 y 16 DE SEPTIEMBRE DEL 2026
 
-### HORARIO DE 9:00 A. M. A 1:20 P. M.
-
-El día de hoy inicié mis actividades a las **9:00 de la mañana**, comenzando por verificar qué elementos y funciones todavía hacían falta en la aplicación.
-
-Durante este período no realicé cambios importantes, debido a que tuve algunas dificultades al trabajar con los dos programas que estaba utilizando y fue necesario revisar nuevamente el proceso que debía seguir.
-
-También intenté cambiar la imagen de la aplicación por una versión con fondo transparente. Sin embargo, al realizar el cambio, la imagen no se mostraba correctamente, por lo que fue necesario volver a colocar la imagen anterior para evitar afectar la apariencia de la aplicación.
-
-### HORARIO DE 1:20 P. M. A 2:20 P. M.
-
-A las **1:20 de la tarde** salí a almorzar y regresé a las **2:20 de la tarde**.
-
-### HORARIO DE 2:20 P. M. A 5:00 P. M.
-
-Al regresar, continué revisando el proyecto y verificando los aspectos que todavía se encontraban pendientes.
-
-Durante este período me enfoqué en identificar los elementos que faltaban y en organizar las modificaciones que posteriormente serían necesarias para continuar avanzando con el desarrollo de la aplicación.
-
+Estos días se tomaron como feriado 
 ---
 
 ## JUEVES 17 DE SEPTIEMBRE DEL 2026
@@ -502,9 +485,9 @@ Finalmente, continué organizando el contenido promocional y terminé mis activi
 
 ### HORARIO DE 8:00 A. M. A 2:20 P. M.
 
-El día de hoy inicié mis prácticas a las 8:00 de la mañana. Durante la jornada trabajé principalmente en la organización y corrección de los diarios de prácticas, revisando la información de los días anteriores para mejorar su redacción, ordenar las actividades realizadas y darle una presentación más clara y profesional al documento.
+El día de hoy inicié mis prácticas a las 8:00 de la mañana. Durante la jornada trabajé principalmente en Canva, realizando diferentes ajustes al material promocional de la aplicación ASISGRU. Continué trabajando en un video publicitario, revisando y modificando algunos elementos para mejorar su presentación y lograr que la información de la aplicación se mostrara de una manera clara, ordenada y atractiva.
 
-También continué trabajando en Canva, realizando ajustes relacionados con el material de promoción de la aplicación ASISGRU. Revisé y modifiqué algunos elementos del diseño para mejorar la presentación del contenido y procurar que la información de la aplicación se mostrara de una manera más ordenada y atractiva.
+Posteriormente, continué con la elaboración y edición del video promocional, realizando los cambios necesarios y revisando los elementos utilizados para que el resultado final tuviera una mejor presentación.
 
 ### HORARIO DE 2:20 P. M. A 3:20 P. M.
 
@@ -512,6 +495,6 @@ A las 2:20 de la tarde salí a almorzar y regresé a las 3:20 de la tarde para c
 
 ### HORARIO DE 3:20 P. M. A 5:00 P. M.
 
-Al regresar, continué revisando y corrigiendo los diarios de prácticas, verificando que las actividades estuvieran correctamente organizadas y redactadas. También realicé algunos ajustes finales en Canva relacionados con el material promocional de ASISGRU.
+Al regresar, trabajé en la revisión y corrección de los diarios de prácticas. Revisé la información de los días anteriores, realizando ajustes en la redacción, organización y presentación de las actividades realizadas, con el objetivo de que el documento quedara más claro, ordenado y profesional.
 
-Finalmente, revisé el trabajo realizado durante el día y dejé organizados los avances correspondientes. Finalicé mis actividades a las 5:00 de la tarde.
+Finalmente, continué organizando los registros de las prácticas y revisé los cambios realizados durante la jornada. Finalicé mis actividades a las 5:00 de la tarde.
