@@ -1,249 +1,517 @@
-# GUÍA
+# DIARIO DE PRÁCTICAS
+
+## MARTES 1 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
+
+El día de hoy inicié mis prácticas profesionales en **Recurso Soporte** a las **8:00 de la mañana**. Para comenzar la jornada, recibimos una bienvenida y una introducción acerca del área en la que desarrollaríamos nuestras prácticas. También se conversó sobre la carrera que actualmente estamos estudiando y se nos explicaron las principales actividades, responsabilidades y objetivos que desarrollaríamos durante el período de prácticas.
+
+Posteriormente, se nos asignaron diferentes temas relacionados con el área de tecnología y programación que debíamos investigar. Para facilitar nuestra comprensión, recibimos una breve explicación y un resumen introductorio de cada tema. A partir de estas indicaciones, comenzamos a complementar la información mediante nuestra propia investigación, procurando seleccionar contenido relevante y comprender los conceptos antes de incorporarlos al trabajo.
+
+Durante la mañana nos dedicamos a investigar, organizar y estructurar la información de los temas asignados, procurando avanzar de manera ordenada y responsable con las actividades establecidas.
+
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
+
+A las **12:30 del mediodía** realizamos nuestro horario de almuerzo, tomando un descanso antes de continuar con las actividades programadas.
+
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
+
+Al regresar a las **1:30 de la tarde**, continuamos trabajando en los temas de investigación asignados. Durante este período también tuvimos la oportunidad de revisar algunos equipos de cómputo disponibles para el desarrollo de nuestras actividades, debido a que no contábamos con equipo propio.
+
+Para comprobar el funcionamiento de los equipos, utilizamos el **Administrador de tareas de Windows**, mediante el cual observamos que las computadoras presentaban problemas de rendimiento y se bloqueaban con cierta frecuencia debido al alto consumo de recursos del sistema.
+
+Al realizar una revisión más detallada, identificamos que uno de los equipos presentaba principalmente inconvenientes relacionados con el uso del disco, mientras que otro mostraba un consumo elevado de memoria. Esta actividad nos permitió poner en práctica conocimientos relacionados con el **diagnóstico básico de computadoras** y comprender la importancia de revisar los recursos del sistema para identificar posibles causas de un bajo rendimiento.
+
+Posteriormente, realizamos una revisión de la información relacionada con **Git**, debido a que algunos datos no se encontraban registrados correctamente. Se verificó la situación y se realizaron las correcciones necesarias, logrando solucionar el inconveniente y continuar con las actividades correspondientes.
+
+Antes de finalizar la jornada, se nos informó que el **viernes 4 de septiembre** realizaríamos una exposición de los temas asignados, en un horario de **3:00 p. m. a 5:00 p. m.**. Esta actividad tendría como objetivo fortalecer nuestros conocimientos, comprobar nuestra comprensión de los temas investigados y desarrollar nuestra capacidad para explicar información técnica de manera clara y ordenada.
+
+De esta manera, finalicé mi jornada de prácticas, dejando registrados los avances realizados y las actividades que debía continuar desarrollando posteriormente.
+
+### HORARIO DE 6:45 P. M. A 9:36 P. M.
+
+Al regresar a mi casa, continué trabajando en los temas asignados desde aproximadamente las **6:45 de la tarde hasta las 9:36 de la noche**. Durante este tiempo comencé a investigar el tema de **Markdown**, además de continuar editando y complementando los demás contenidos que había comenzado a trabajar durante la jornada.
+
+En general, fue un día productivo, ya que además de iniciar oficialmente mis prácticas, pude conocer las actividades que desarrollaríamos durante el mes, aprender sobre diferentes temas relacionados con la informática, revisar el funcionamiento de algunos equipos y comenzar a trabajar con nuevas herramientas y conceptos que posteriormente tendría que presentar.
+
 ---
-# TITULO (SÓLO UNA VEZ)
-## SUBTITULO (LA FECHA, DÍA MES Y AÑO)
-### Horario
-- Actividad 1
-- Actividad 2
-- Etc.
 
+## MIÉRCOLES 2 DE SEPTIEMBRE DEL 2026
 
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
 
+El día de hoy inicié mis actividades de prácticas a las **8:00 de la mañana**, continuando con la organización y elaboración del archivo principal correspondiente al proyecto. El objetivo principal fue establecer una estructura clara que permitiera incorporar de manera ordenada toda la información relacionada con los diferentes temas asignados.
 
-# DIARIO DE PRACTICAS - DANIELA ALEJANDRA LÓPEZ DE LEÓN, ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACIÓN EN COMPUTACIÓN DE LA ESCUELA NORMAL DE MAESTRAS DE EDUCACIÓN PARA EL HOGAR "HUMBERTO MIRANDA FUENTES"
----
+Comencé a organizar y estructurar el archivo principal, revisando la distribución de los contenidos para evitar que la información quedara desordenada o repetitiva.
 
-## Martes 1 de septiembre 
+Para mejorar la organización, estructuré el contenido utilizando viñetas, subtítulos y diferentes apartados, con la finalidad de que cada tema pudiera identificarse fácilmente y tuviera una presentación clara y comprensible.
 
-***actividades realizadas***
+Organicé y agregué información correspondiente a **Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI**. Para cada tema fui recopilando información relacionada con su definición, funcionamiento, utilidad, características y aspectos importantes.
 
-El día de hoy inicié mis prácticas con Don Carlos. La jornada comenzó a las **8:00 de la mañana**. Para iniciar, Don Carlos nos dio la bienvenida y posteriormente tuvimos una conversación acerca de la carrera que estamos estudiando. También nos explicó y comentó sobre las actividades que realizaríamos durante este mes de prácticas junto con mi compañera **Aidé Rubio**.
+También revisé la distribución de los temas dentro del documento para mantener una secuencia lógica y facilitar posteriormente su lectura, revisión y modificación.
 
-Después de habernos explicado sobre la carrera y las actividades que realizaríamos durante el mes, Don Carlos nos indicó los diferentes temas que debíamos investigar. Además, nos proporcionó un pequeño resumen de cada uno de ellos para que pudiéramos tener una idea general y comprender de qué trataba cada tema. Los temas debíamos complementarlos nosotros mismos mediante la investigación, agregando información importante y procurando comprender el contenido.
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
 
-Después de recibir las indicaciones, comenzamos a adelantar algunos de los temas que nos había dejado. Nos dedicamos a investigar, organizar y agregar información para avanzar con el trabajo asignado. Estuvimos realizando esta actividad durante la mañana y, mientras continuábamos trabajando, llegó la hora del almuerzo. **A las 12:30 del mediodía** salimos a almorzar con mi compañera.
+Al regresar del horario de almuerzo, continué trabajando en el contenido del archivo principal. Durante este período me enfoqué principalmente en ampliar la información de los diferentes temas para que el documento no se limitara únicamente a definiciones, sino que contara con explicaciones más completas.
 
-Luego regresamos a la **1:30 de la tarde** y continuamos avanzando con los temas que nos habían asignado. Seguimos trabajando y desarrollando la información lo más que pudimos, ya que era bastante contenido y necesitábamos tiempo para investigarlo, comprenderlo y organizarlo correctamente.
+Agregué información adicional a cada una de las secciones y continué desarrollando los apartados relacionados con **Blazor, C#, Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI**.
 
-Después de avanzar con los temas, nos pusimos a revisar las computadoras que nos había proporcionado un trabajador de Don Carlos, debido a que tanto mi compañera como yo no llevábamos computadora. Para verificar el funcionamiento de los equipos, ingresamos al ***Administrador de tareas***, donde pudimos observar que las tres computadoras presentaban problemas de rendimiento y se trababan con frecuencia debido a que el CPU se encontraba bastante saturado.
+También revisé algunos textos para comprobar que las ideas estuvieran relacionadas con el tema correspondiente y que la información mantuviera una secuencia adecuada.
 
-Al revisar con mayor detalle, nos percatamos de que una de las computadoras presentaba problemas principalmente relacionados con el disco, mientras que otra también se trababa debido al uso elevado de la memoria . Esta revisión nos permitió identificar algunas de las razones por las cuales los equipos estaban funcionando de manera lenta y presentando dificultades durante su utilización.
+Continué organizando el contenido mediante subtítulos y viñetas para facilitar la lectura y evitar que el documento estuviera compuesto únicamente por grandes bloques de texto.
 
-Cuando ya faltaba poco para terminar, nos indicaron que no teníamos correctamente ingresada la información en la aplicación que estábamos utilizando, la cual se llamaba Git. Revisamos el problema y finalmente se pudo solucionar, por lo que logramos continuar con las actividades que estábamos realizando.
-
-Antes de finalizar la jornada, Don Carlos nos informó que **el día viernes tendríamos que exponer los temas que nos había dejado de tarea, en un horario de 3:00 p. m. a 5:00 p. m.**. Nos explicó que la finalidad de esta actividad es que podamos aprender y comprender los temas que estamos estudiando, además de demostrar que somos capaces de explicar la información que investigamos.
-
-**De esta manera, terminamos nuestra jornada de prácticas aproximadamente a las 6:00 de la tarde**.
-
-Al regresar a mi casa, continué trabajando en los temas desde aproximadamente las **6:45 p. m. hasta las 9:36 p. m.**. Durante este tiempo comencé a introducir e investigar el nuevo tema que nos habían dejado, el cual era ***Markdown***, además de continuar editando y complementando los demás temas que ya habíamos comenzado a trabajar durante el día.
-
-En general, fue un día bastante productivo, ya que además de comenzar oficialmente nuestras prácticas, pude conocer las actividades que realizaremos durante este mes, aprender sobre diferentes temas relacionados con la informática, revisar el funcionamiento de algunos equipos y comenzar a trabajar con nuevas herramientas y conceptos que tendremos que presentar posteriormente.
-
-## MIÉRCOLES 2 DE SEPTIEMBRE 
-### Horario: 8:00 a.m. a 12:30 p.m.
-
-***Actividades realizadas***
-
-Durante este período de la jornada continué con la organización y elaboración del archivo principal correspondiente al proyecto. El objetivo principal fue establecer una estructura clara que permitiera incorporar de manera ordenada toda la información relacionada con los diferentes temas asignados.
-
-Comencé a organizar y componer el archivo principal del proyecto, revisando la distribución de los contenidos para evitar que la información quedara desordenada o repetitiva.
-
-Estructuré el contenido utilizando viñetas, subtítulos y diferentes apartados, con la finalidad de que cada tema pudiera identificarse fácilmente y tuviera una presentación más clara y comprensible.
-
-Organicé y agregué información correspondiente a cada uno de los temas asignados: Blazor, C#, arquitectura Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI.
-Para cada tema fui recopilando y colocando información relacionada con su definición, funcionamiento, utilidad, características y aspectos importantes, procurando que el contenido fuera suficientemente amplio para comprender cada concepto.
-Revisé la distribución de los temas dentro del documento para mantener una secuencia lógica y facilitar posteriormente la lectura, revisión y modificación del archivo.
-
-También fui acomodando los textos de manera que cada apartado tuviera una estructura similar, permitiendo que el documento mantuviera mayor uniformidad.
-Aseguré que el archivo quedara adecuadamente estructurado y organizado para facilitar el trabajo de las siguientes etapas del proyecto y permitir que la información pudiera seguir ampliándose sin perder el orden.
-Durante este proceso presté atención a la presentación del documento, procurando que los contenidos fueran fáciles de localizar y que cada tema estuviera separado correctamente.
-
-### Horario de: 1:30 p.m. a 5:00 p.m.
-
-Durante la segunda parte de la jornada continué trabajando en el contenido del archivo principal. En este período me enfoqué principalmente en ampliar la información de los diferentes temas para que el documento no se limitara únicamente a definiciones, sino que contara con explicaciones más completas.
-
-Agregué más texto y detalles a cada una de las secciones, ampliando la información para que los temas quedaran mejor explicados y fueran más fáciles de comprender.
-Continué desarrollando los apartados relacionados con Blazor, C#, Cliente-Servidor, diagnóstico de computadoras, Git, Inteligencia Artificial, Markdown y MAUI, procurando complementar la información que ya había sido agregada durante la mañana.
-Revisé algunos de los textos para comprobar que las ideas estuvieran relacionadas con el tema correspondiente y que la información mantuviera una secuencia adecuada.
-
-Amplié las explicaciones de los conceptos principales, buscando que el documento tuviera información suficiente para utilizarlo posteriormente como material de consulta y apoyo para la elaboración del proyecto.
-Continué organizando el contenido mediante subtítulos y viñetas para evitar que el documento se convirtiera únicamente en grandes bloques de texto y para facilitar su lectura.
-Realicé una revisión general de la estructura del archivo conforme iba agregando información, verificando que los nuevos contenidos fueran colocados en la sección correspondiente.
-
-El cuestionario correspondiente a los temas trabajados todavía no fue elaborado durante esta jornada, debido a que primero se priorizó la organización y ampliación de la información del archivo principal.
-La elaboración del cuestionario quedó pendiente para continuarla posteriormente en horas de la noche, una vez finalizada la recopilación y organización de los contenidos necesarios para formular correctamente las preguntas.
+Durante esta jornada no se elaboró todavía el cuestionario correspondiente, debido a que primero se priorizó la organización y ampliación de la información del archivo principal. La elaboración del cuestionario quedó pendiente para continuarla posteriormente.
 
 Al finalizar la jornada, se logró avanzar considerablemente en la organización y ampliación del archivo principal, dejando estructurada la información de los temas asignados y preparada para continuar con las siguientes actividades del proyecto.
 
-## JUEVES 3  DE SEPTIEMBRE
+---
 
-***Actividades realizadas***
+## JUEVES 3 DE SEPTIEMBRE DEL 2026
 
-**8:00 a.m. — 12:30 p.m.**
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
 
-Al llegar a las 8:00 de la mañana me puse a trabajar en los cuestionarios que don Carlos nos había dejado como tarea. Comencé revisando cada uno de los cuestionarios y las preguntas que debía responder para ir avanzando de manera ordenada. Como la indicación era responder con nuestras propias palabras, primero revisaba la información que ya tenía de las sesiones anteriores para poder contestar las preguntas.
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando con el desarrollo de los cuestionarios que habían sido asignados. Primero revisé cada uno de ellos y las preguntas que debía responder, procurando avanzar de manera ordenada.
 
-En las preguntas cuyos temas recordaba, escribía las respuestas utilizando mis propias palabras y tratando de que fueran claras y fáciles de comprender. Cuando encontraba alguna pregunta cuya respuesta no recordaba o no sabía, buscaba información en Google para poder comprender mejor el tema y responder correctamente. Después de encontrar la información necesaria, la revisaba y la explicaba con mis propias palabras, evitando copiarla directamente.
+Como la indicación era responder utilizando nuestras propias palabras, primero revisaba la información que ya tenía de las sesiones anteriores para poder elaborar las respuestas.
 
-Durante toda la mañana me mantuve trabajando en los diferentes cuestionarios, pasando de una pregunta a otra y buscando información cuando era necesario. Algunas preguntas me tomaron más tiempo debido a que tenía que investigar primero el concepto antes de poder responderlo. También fui revisando las respuestas conforme avanzaba para asegurarme de que estuvieran completas y relacionadas con lo que se preguntaba.
+En las preguntas cuyos temas recordaba, redactaba las respuestas con mis propias palabras, procurando que fueran claras y fáciles de comprender. Cuando encontraba alguna pregunta cuya respuesta no recordaba o cuyo concepto no comprendía completamente, realizaba una búsqueda de información para poder estudiarlo y responder correctamente.
 
-Continué trabajando en esta actividad hasta las 12:30 p.m., cuando salí a almorzar.
+Después de encontrar la información necesaria, la revisaba y posteriormente elaboraba la respuesta con mis propias palabras, evitando copiar directamente la información consultada.
 
-**1:30 p.m. — 5:00 p.m.**
+Durante toda la mañana me mantuve trabajando en los diferentes cuestionarios, avanzando de una pregunta a otra y realizando investigaciones cuando era necesario.
 
-Regresé a la 1:30 p.m. y continué trabajando en los cuestionarios que todavía tenía pendientes. Retomé las preguntas que me faltaban y seguí utilizando el mismo método: revisar primero las tareas y responder con mis propias palabras, y cuando no conocía algún concepto, buscar información en Google para poder completar correctamente la respuesta.
+Continué trabajando hasta las **12:30 del mediodía**, momento en el que salí a almorzar.
 
-Durante la tarde logré avanzar bastante y fui terminando uno por uno los cuestionarios que tenía asignados. También aproveché el tiempo para revisar algunas respuestas y corregir detalles para que todo quedara más ordenado y claro. Al finalizar la jornada solamente me faltaba un cuestionario por terminar, por lo que pude completar la mayor parte del trabajo que tenía pendiente.
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
 
-Al finalizar el día, había avanzado considerablemente con los cuestionarios y dejado únicamente uno pendiente, además de haber comenzado la preparación para la exposición del día siguiente.
+Al regresar a las **1:30 de la tarde**, continué trabajando en los cuestionarios que todavía tenía pendientes. Retomé las preguntas que faltaban y seguí utilizando el mismo método de trabajo: revisar los temas, comprender la información y responder con mis propias palabras.
 
-Regresando de mis practicas me puse a trabajar o más bien a repasar mis temas que me tocan exponer el día de mañana, posteriormente me puse a terminar el último cuestionario que me hacia falte, trabajando desde las 8:00 hasta las 11:20 
+Durante la tarde logré avanzar considerablemente y fui terminando uno por uno los cuestionarios asignados. También aproveché el tiempo para revisar algunas respuestas y corregir detalles con el objetivo de que todo quedara más ordenado y claro.
 
-## Viernes 4 de septiembre 
-El día de hoy iniciamos nuestras actividades a las 8:00 de la mañana, comenzando con el ensayo de los diferentes temas que teníamos preparados para exponer. Durante toda la mañana nos dedicamos a repasar la información, leer nuestros apuntes y practicar la manera en que explicaríamos cada tema frente a los demás. También aprovechamos este tiempo para organizar mejor nuestras ideas, recordar los puntos más importantes y prepararnos para poder expresarnos de una manera clara durante la exposición.
+Al finalizar la jornada, solamente me faltaba un cuestionario por terminar, por lo que había logrado completar la mayor parte del trabajo pendiente.
 
-A medida que avanzaba la mañana, continuamos practicando y tomando apuntes sobre aquellos aspectos que considerábamos importantes o que todavía necesitábamos reforzar. El ensayo nos ayudó a identificar algunas partes que debíamos mejorar, por lo que repetimos varias veces la explicación de los temas para sentirnos más preparados y tener mayor seguridad al momento de exponer. De esta manera, la mañana pasó principalmente entre repasos, apuntes y prácticas.
+### HORARIO DE 8:00 P. M. A 11:20 P. M.
 
-A las 12:30 del mediodía salimos a almorzar y tuvimos un descanso. Después, regresamos nuevamente a las 1:30 de la tarde para continuar con las actividades. Al regresar seguimos ensayando los temas y revisando nuestros apuntes, tratando de mejorar la forma en que presentaríamos la información. También nos preparamos para comenzar finalmente con las exposiciones, repasando por última vez los puntos principales.
+Al regresar de mis prácticas, continué trabajando en casa. Primero repasé los temas que debía exponer al día siguiente, revisando la información y procurando comprender los puntos principales.
 
-A las 3:15 de la tarde comenzamos con la exposición de los temas que habíamos estado preparando durante la jornada. Cada uno tuvo la oportunidad de presentar la información y poner en práctica todo lo que había repasado durante los ensayos. Las exposiciones se extendieron hasta aproximadamente las 4:40 de la tarde, momento en el que dimos por finalizada esta actividad.
+Posteriormente, continué trabajando en el último cuestionario que tenía pendiente. Realicé esta actividad desde aproximadamente las **8:00 de la noche hasta las 11:20 de la noche**, dejando avanzado el trabajo necesario para la jornada siguiente.
 
-Al terminar, debido a que la lluvia estaba muy fuerte, decidimos regresar a nuestras casas para evitar cualquier inconveniente durante el camino. De esta manera, finalizamos las actividades del día después de una jornada en la que dedicamos gran parte del tiempo a prepararnos, practicar y finalmente presentar los temas que habíamos estudiado.
+---
 
-## Domingo 7 de septiembre
-*actividad realizada* 
-En mi casa trabaje de 6:00 pm hasta las 7:05 pm abordando el tema: Basas de datos
+## VIERNES 4 DE SEPTIEMBRE DEL 2026
 
-## Lunes 8 de septiembre 
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
 
-*Actividades realizada*
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando con el ensayo de los diferentes temas que teníamos preparados para exponer.
 
-El día de hoy inicié mis prácticas a las 8:00 a.m. respondiendo un cuestionario, el cual me tomó bastante tiempo debido a que contenía una gran cantidad de preguntas. Después de avanzar con el cuestionario, comencé a revisar junto con mi compañera lo que íbamos a programar, leyendo y analizando las indicaciones para tener una mejor idea de las actividades que realizaríamos.
+Durante toda la mañana nos dedicamos a repasar la información, leer nuestros apuntes y practicar la manera en que explicaríamos cada tema. También aprovechamos este tiempo para organizar nuestras ideas, recordar los puntos más importantes y prepararnos para expresarnos de una manera clara durante la exposición.
 
-A pesar de que todavía nos faltaban algunas actividades por completar, llegó la 1:00 p.m., por lo que salimos a almorzar. Regresamos a las 2:00 p.m. para continuar avanzando con el trabajo y seguir desarrollando los temas que teníamos pendientes.
+A medida que avanzaba la mañana, continuamos practicando y tomando apuntes sobre aquellos aspectos que necesitábamos reforzar. El ensayo nos ayudó a identificar algunas partes que debíamos mejorar, por lo que repetimos varias veces las explicaciones para estar mejor preparados.
 
-Durante la tarde, nos enfocamos en organizar y componer los temas que trabajaríamos en el proyecto. Posteriormente, comenzamos con la instalación de la aplicación que utilizaríamos para realizar la programación y continuar con el desarrollo del proyecto.
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
 
-Después de instalar la aplicación, empezamos a trabajar en la parte visual, analizando diferentes ideas para el logo de la aplicación y definiendo los colores que utilizaríamos para darle una apariencia más organizada y adecuada al proyecto.
+A las **12:30 del mediodía** salimos a almorzar y tuvimos un período de descanso.
 
-Finalmente, continuamos revisando los detalles y dejamos encaminadas las actividades realizadas durante el día, terminando así nuestra jornada de prácticas a las 5:00 pm.
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
 
-## Martes 9 de septiembre 
+Regresamos a las **1:30 de la tarde** y continuamos con las actividades. Durante la tarde seguimos ensayando los temas, revisando nuestros apuntes y preparándonos para las exposiciones.
 
-El día de hoy comencé mis actividades a las 8:00 de la mañana, iniciando con la revisión del proyecto que llevaríamos a cabo. Primero me tomé el tiempo para leer y analizar la información, con el objetivo de comprender mejor las actividades que realizaríamos durante el desarrollo del proyecto.
+A las **3:15 de la tarde** comenzamos con la exposición de los temas que habíamos preparado. Cada integrante tuvo la oportunidad de presentar la información y poner en práctica lo estudiado durante los ensayos.
 
-Después de revisar el proyecto, apoyé en la actividad de organizar cables en los equipos de cómputo de la empresa. Al finalizar, ayudé a armar el equipo que mi compañera utilizaría en su práctica.
+Las exposiciones se extendieron hasta aproximadamente las **4:40 de la tarde**, momento en el que finalizó la actividad.
 
-Posteriormente, revisamos la aplicación que utilizaríamos para desarrollar nuestro proyecto, llegando a la conclusión de que trabajaríamos con Visual Studio. Durante este tiempo también estuvimos revisando nuevamente el proyecto y analizando los pasos que debíamos seguir para comenzar con el desarrollo.
+Al terminar, debido a las condiciones climáticas y a la lluvia que se presentó, procedimos a retirarnos para evitar inconvenientes durante el traslado. De esta manera, finalizamos una jornada enfocada principalmente en la preparación, práctica y presentación de los temas investigados.
 
-A las 12:30 del mediodía salimos a almorzar y regresamos a la 1:30 de la tarde. Al regresar, continuamos trabajando en el proyecto, leyendo y revisando nuevamente la información para tener una mejor comprensión de lo que debíamos realizar. Después de analizar los requerimientos, comenzamos a avanzar con las primeras actividades relacionadas con el desarrollo del proyecto.
+---
 
-Finalmente, antes de terminar la jornada, actualicé mi diario de actividades, dejando registrado el trabajo realizado durante el día. De esta manera, di por finalizadas mis actividades a las 5:00 de la tarde.
+## DOMINGO 7 DE SEPTIEMBRE DEL 2026
 
-## Miércoles 9 de septiembre 
-El día de hoy comencé mis actividades a las 8:00 de la mañana, iniciando con el proyecto en Visual Studio. Al comenzar a trabajar, observé que el programa presentaba varios errores y fallas, por lo que durante la mañana me dediqué a intentar solucionarlos. Sin embargo, no fue posible corregirlos por completo, lo que dificultó avanzar con el proyecto y limitó las actividades que pude realizar durante ese período.
+### HORARIO DE 6:00 P. M. A 7:05 P. M.
 
-A las 12:30 del mediodía salí a la hora del almuerzo y regresé nuevamente a la 1:30 de la tarde. Al regresar, encendí un equipo que habían llevado para posteriormente continuar con el trabajo de programación. Más adelante ayudé a encender y revisar el equipo, ya que se necesitaba verificar un problema que presentaba la pantalla, la cual se apagaba varias veces.
+El día de hoy dediqué parte de la tarde a continuar con las actividades de investigación desde casa. Durante aproximadamente una hora trabajé en el tema relacionado con **bases de datos**, revisando información y ampliando mis conocimientos para continuar con las actividades asignadas.
 
-Para comprobar el comportamiento del equipo, dejamos reproduciendo un video durante un período de tiempo y observamos cuántas veces el equipo presentaba fallas o se trababa. Después de realizar esta prueba, retomamos el proyecto de **AsisGrup**, comenzando nuevamente desde cero para revisar detalladamente el trabajo realizado. Durante este proceso fuimos verificando y corrigiendo los diferentes errores que se presentaban, con el objetivo de lograr que el proyecto funcionara correctamente y poder continuar avanzando.
+---
 
-Aunque no fue posible completar todo el proyecto durante el día, sí logramos avanzar considerablemente en su desarrollo y corregir varios de los errores que estaban afectando su funcionamiento. Finalmente, intentamos apagar el equipo que habíamos estado revisando, pero este presentó otro inconveniente, ya que no quería apagarse correctamente.
+## LUNES 8 DE SEPTIEMBRE DEL 2026
 
-De esta manera, finalicé mis actividades del día a las **5:00 de la tarde**, dejando pendiente continuar con el proyecto y seguir revisando los problemas que aún presentaba el equipo.
+### HORARIO DE 8:00 A. M. A 1:00 P. M.
 
-## Permiso especial
-El día jueves 10 y el día viernes 11 de septiembre solicité un permiso especial para ausentarme de las prácticas, debido a que me encontraba presentando quebrantos de salud que me impedían realizar mis actividades con normalidad. La situación fue informada oportunamente, procurando mantener la comunicación y responsabilidad correspondiente con respecto a las horas de práctica.
+El día de hoy inicié mis prácticas a las **8:00 de la mañana**, comenzando con la elaboración de un cuestionario. Esta actividad me tomó bastante tiempo debido a que contenía una cantidad considerable de preguntas.
 
-Asimismo, se acordó retomar las actividades el día lunes 14 de septiembre y reponer las horas que no fueron realizadas durante los días de ausencia. Para ello, se estableció compensar el tiempo perdido los días martes 15 y jueves 16 de septiembre, con el propósito de cumplir con las horas establecidas y continuar con las actividades asignadas sin afectar el desarrollo de la práctica.
+Después de avanzar con el cuestionario, comencé a revisar junto con mi compañera los aspectos que trabajaríamos en la programación. Leímos y analizamos las indicaciones con el objetivo de comprender mejor las actividades que realizaríamos.
 
-## Lunes 14 de septiembre 
-El día de hoy comencé mi jornada de prácticas a las 8:00 de la mañana, retomando el desarrollo de la aplicación en Visual Studio. Durante la mañana me dediqué principalmente a realizar diferentes procesos de programación y a revisar detalladamente el código, ya que se presentaban varios errores que impedían que la aplicación funcionara correctamente. Por ello, fue necesario analizar cada uno de los problemas, realizar modificaciones y hacer diferentes pruebas para comprobar que los cambios realizados fueran solucionando las fallas encontradas.
+### HORARIO DE 1:00 P. M. A 2:00 P. M.
 
-A lo largo de la mañana continué trabajando en la corrección de estos errores y revisando el funcionamiento de las diferentes partes de la aplicación. Aunque algunos inconvenientes requirieron más tiempo de lo esperado, poco a poco fui logrando que el proyecto avanzara y que algunas de sus funciones comenzaran a trabajar de una mejor manera.
+A la **1:00 de la tarde** realizamos nuestro horario de almuerzo y posteriormente regresamos para continuar con las actividades.
 
-A las 12:30 del mediodía salí a almorzar, regresando nuevamente a las 1:30 de la tarde para continuar con la jornada. Durante la tarde seguí trabajando en la programación y en la corrección de los errores que todavía se presentaban. También realicé varias pruebas para verificar los cambios y observar cómo iba respondiendo la aplicación.
+### HORARIO DE 2:00 P. M. A 5:00 P. M.
 
-Después de varias horas de trabajo, finalmente pude observar los primeros avances más visibles de la aplicación, lo cual fue satisfactorio, ya que durante los días anteriores había estado trabajando principalmente en la solución de errores y en la configuración del proyecto. Esto me permitió tener una mejor idea de cómo estaba quedando la aplicación y de los aspectos que todavía necesitaban ser mejorados.
+Durante la tarde nos enfocamos en organizar y estructurar los temas que trabajaríamos en el proyecto.
 
-Continué trabajando y realizando ajustes hasta finalizar mi jornada. Sin darme cuenta, llegó la hora de salida, por lo que finalicé mis actividades a las 5:00 de la tarde, dejando el proyecto con avances importantes y con la intención de continuar trabajando en las partes que aún hacen falta completar.
+Posteriormente, comenzamos con la instalación de la aplicación que utilizaríamos para realizar la programación y continuar con el desarrollo del proyecto.
 
-## Miércoles 16 de septiembre
-El día de hoy inicié mis actividades a las 9:00 de la mañana, comenzando por verificar qué elementos y funciones aún hacían falta en la aplicación. Por el momento no realicé cambios importantes, ya que tuve algunas dificultades al trabajar con los dos programas que estaba utilizando y me llegué a confundir un poco con el proceso que debía seguir.
+Después de instalar la aplicación, empezamos a trabajar en la parte visual, analizando diferentes ideas para el logotipo de la aplicación y definiendo los colores que utilizaríamos para darle una apariencia organizada y adecuada.
 
-También intenté cambiar la imagen de la aplicación por una versión con el fondo transparente; sin embargo, al realizar el cambio, la imagen no se mostraba correctamente y aparecía únicamente la imagen sin los demás elementos que debía contener. Debido a este inconveniente, tuve que volver a colocar la imagen anterior para evitar afectar el funcionamiento y la apariencia de la aplicación.
+Finalmente, continuamos revisando los detalles y dejamos encaminadas las actividades realizadas durante el día, terminando nuestra jornada de prácticas a las **5:00 de la tarde**.
 
-Tomé mi hora de almuerzo de 1:20 a 2:20 de la tarde. Al regresar, continué revisando el proyecto y verificando qué aspectos todavía estaban pendientes, con la intención de seguir realizando las modificaciones necesarias y poder agregar los elementos que aún hacen falta en la aplicación, avanzando poco a poco en el desarrollo del proyecto.
+---
 
-## Jueves 17 de septiembre 
-El día de hoy comencé mis actividades a las **8:00 de la mañana**, iniciando con la revisión y programación del proyecto en Visual Studio. Durante la mañana me dediqué principalmente a continuar con el desarrollo de la aplicación, revisando el código y realizando diferentes pruebas para identificar los errores que se estaban presentando y buscar la manera de corregirlos.
+## MARTES 9 DE SEPTIEMBRE DEL 2026
 
-A las **12:40 del mediodía** salí a almorzar, regresando nuevamente a las **1:40 de la tarde** para continuar con las actividades. Durante la jornada de la tarde seguí trabajando en la programación y en la corrección de los errores encontrados, realizando cambios y comprobando que las modificaciones permitieran un mejor funcionamiento de la aplicación. También continué revisando diferentes partes del proyecto para poder avanzar poco a poco en su desarrollo y evitar que los errores afectaran otras funciones.
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
 
-Finalmente, después de continuar trabajando y realizando las respectivas correcciones, terminé mis actividades a **las 5:00 de la tarde**, dejando avances en el desarrollo y corrección del proyecto.
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando con la revisión del proyecto que llevaríamos a cabo.
 
+Primero leí y analicé la información con el objetivo de comprender mejor las actividades que realizaríamos durante el desarrollo del proyecto.
 
-## Martes 22 de septiembre
+Posteriormente, apoyé en la organización de cables de algunos equipos de cómputo disponibles en las instalaciones. Al finalizar, colaboré en la preparación del equipo que sería utilizado para continuar con las actividades de práctica.
 
-El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando por revisar nuevamente la aplicación y verificar el estado en el que se encontraba. Durante toda la mañana estuve trabajando en diferentes partes del proyecto, realizando correcciones, modificaciones y ajustes en aquellos elementos que presentaban errores o que no estaban funcionando de la manera esperada.
+También revisamos la aplicación que utilizaríamos para desarrollar nuestro proyecto y determinamos que trabajaríamos con **Visual Studio**.
 
-Continué trabajando hasta la **1:00 de la tarde**, momento en el que salí a almorzar, regresando nuevamente a las **2:00 de la tarde** para continuar con las actividades programadas. Durante la tarde seguí trabajando en la aplicación, agregando diferentes clases que se encontraban dentro de las carpetas del proyecto, con el objetivo de integrar correctamente sus funciones y lograr que los distintos componentes trabajaran de manera adecuada.
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
 
-Después de realizar estos cambios, la aplicación comenzó a funcionar correctamente y se logró que los registros que se llevarían a cabo dentro de ella pudieran guardarse de manera adecuada. Esto permitió observar un avance importante en el funcionamiento del proyecto, ya que algunas de las funciones principales comenzaron a responder como se esperaba.
+A las **12:30 del mediodía** salimos a almorzar y regresamos a las **1:30 de la tarde**.
 
-Finalmente, continué realizando pruebas y verificando que los cambios realizados no generaran nuevos errores, terminando mis actividades a las **5:00 de la tarde**.
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
 
-## Miércoles 23 de septiembre
+Al regresar, continuamos trabajando en el proyecto, leyendo y revisando nuevamente la información para tener una mejor comprensión de los requerimientos.
 
-El día de hoy inicié mis actividades desde las 8:00 de la mañana, comenzando nuevamente con el desarrollo y revisión de la aplicación AsisGru. Durante toda la mañana estuve trabajando principalmente en la programación, realizando diferentes ajustes, corrigiendo algunos detalles y verificando que las funciones que ya se habían realizado trabajaran correctamente.
+Después de analizar las indicaciones, comenzamos a avanzar con las primeras actividades relacionadas con el desarrollo del proyecto.
 
-Conforme fui avanzando, pude notar que la aplicación ya se encontraba casi finalizada, por lo que aproveché el tiempo para revisar los últimos detalles y realizar pequeñas modificaciones necesarias para que todo quedara funcionando de una mejor manera. También estuve comprobando que las diferentes partes de la aplicación mantuvieran una correcta relación entre sí y que los cambios realizados anteriormente no ocasionaran nuevos errores.
+Finalmente, antes de terminar la jornada, actualicé mi diario de actividades para dejar registrado el trabajo realizado durante el día. De esta manera, finalicé mis actividades a las **5:00 de la tarde**.
 
-A las 12:30 del mediodía salí a almorzar y regresé nuevamente a las 1:30 de la tarde para continuar con el trabajo. Durante la tarde seguí enfocándome en la aplicación, revisando los módulos y corrigiendo los últimos detalles que aún estaban pendientes. Poco a poco fui dejando la aplicación más completa y organizada, logrando avanzar bastante y acercándome cada vez más a finalizar el proyecto.
+---
 
-La tarde prácticamente se me fue entre programación, revisiones y correcciones, porque cuando ya parecía que todo estaba terminado siempre aparecía algún pequeño detalle que revisar. Finalmente, después de continuar trabajando y dejar la aplicación en una etapa bastante avanzada, terminé mis actividades a las 5:00 de la tarde.
+## MIÉRCOLES 9 DE SEPTIEMBRE DEL 2026
 
-## jueves 24 de septiembre 
-El día de hoy inicié mi jornada a las 9:00 de la mañana, teniendo un pequeño retraso debido a que no contaba con un medio de transporte para trasladarme. Al llegar, comencé revisando la página web que debía realizar en Visual Studio, verificando su funcionamiento y organizando los aspectos en los que debía trabajar. A la 1:00 de la tarde salí a almorzar y regresé a las 2:00, continuando con las actividades pendientes. Durante la tarde me dediqué a resumir y organizar la información de mi diario de prácticas, dejando registrados los avances y actividades realizadas. Finalmente, culminé mi jornada a las 5:00 de la tarde.
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
 
-## Viernes 25 de septiembre
-Trabaje una hora en la madrugada con la aplicación de visual studio de 12 para la 1 de la madrugada, haciendo correcciones para poder terminar en la mañana 
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando con el proyecto en **Visual Studio**.
 
-El día de hoy inicié mi jornada de prácticas a las 8:00 de la mañana, continuando con el desarrollo de la aplicación y realizando los últimos cambios que se tenían pendientes. Durante la mañana se fueron realizando diferentes ajustes y correcciones para lograr que la aplicación funcionara de la manera esperada. Después de realizar las modificaciones necesarias, se logró completar la mayor parte del trabajo, aunque fue necesario hacer algunos cambios adicionales para mejorar su funcionamiento y presentación.
+Al comenzar a trabajar, observé que el programa presentaba diferentes errores y fallas, por lo que durante la mañana me dediqué a intentar solucionarlos. Sin embargo, no fue posible corregirlos completamente durante este período, lo que dificultó avanzar con el proyecto.
 
-A las 12:30 del mediodía salí a almorzar y regresé nuevamente a la 1:30 de la tarde para continuar con las actividades. Durante la tarde realicé los últimos retoques y posteriormente procedí a probar la aplicación para verificar que todo funcionara correctamente. Después de realizar las pruebas correspondientes, se comprobó que la aplicación funcionaba de manera adecuada y que los cambios realizados habían sido aplicados correctamente.
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
 
-Una vez finalizada esta parte del proyecto, comencé a investigar los procedimientos y requisitos necesarios para lograr que la aplicación también pueda ser descargada y utilizada en dispositivos con sistema operativo iOS. De esta manera, se busca ampliar la compatibilidad de la aplicación y conocer los pasos necesarios para poder distribuirla en dicho sistema operativo.
+A las **12:30 del mediodía** salí a realizar mi horario de almuerzo y regresé nuevamente a la **1:30 de la tarde**.
 
-Finalmente, después de continuar con la investigación y dejar registrados los avances realizados durante el día, culminé mi jornada de prácticas a las 5:00 de la tarde.
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
 
-## domingo 27 de septiembre
-El día de hoy trabaje 1 hora, de 7pm a 8pm para trabajar la investigación de iOS 
+Al regresar, encendí y revisé un equipo que presentaba inconvenientes con la pantalla, debido a que esta se apagaba en diferentes momentos.
 
-## Lunes 28 de septiembre
+Para comprobar el comportamiento del equipo, dejamos reproduciendo un video durante un período de tiempo y observamos su funcionamiento para identificar si continuaba presentando fallas.
 
-El día de hoy inicié mis actividades a las 8:00 de la mañana, comenzando con el trabajo relacionado con la aplicación ASISGRU.
+Posteriormente, retomé el proyecto de **AsisGru**, revisando nuevamente el trabajo realizado y verificando detalladamente los diferentes errores que se presentaban.
 
-Durante la mañana me dediqué principalmente a la elaboración del manual de usuario de la aplicación. Comencé organizando la estructura que tendría el manual y definiendo los diferentes apartados que se incluirían.
+Durante este proceso se realizaron correcciones y modificaciones con el objetivo de mejorar el funcionamiento del proyecto.
+
+Aunque no fue posible completar todo el trabajo durante el día, sí se logró avanzar considerablemente en su desarrollo y corregir varios de los errores que estaban afectando su funcionamiento.
+
+Finalmente, el equipo que se había estado revisando presentó otro inconveniente al momento de apagarse, por lo que quedó pendiente continuar con su revisión.
+
+De esta manera, finalicé mis actividades a las **5:00 de la tarde**.
+
+---
+
+## PERMISO ESPECIAL — JUEVES 10 Y VIERNES 11 DE SEPTIEMBRE DEL 2026
+
+Durante los días **jueves 10 y viernes 11 de septiembre**, solicité un permiso especial para ausentarme de las prácticas debido a una situación personal que me impedía realizar mis actividades con normalidad.
+
+La situación fue comunicada oportunamente, procurando mantener la responsabilidad y comunicación correspondiente con respecto a las horas de práctica.
+
+Asimismo, se estableció retomar las actividades el **lunes 14 de septiembre** y reponer las horas correspondientes a los días de ausencia, con el propósito de cumplir con las horas establecidas y continuar con las actividades asignadas.
+
+---
+
+## LUNES 14 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
+
+El día de hoy inicié mi jornada de prácticas a las **8:00 de la mañana**, retomando el desarrollo de la aplicación en **Visual Studio**.
+
+Durante la mañana me dediqué principalmente a realizar diferentes procesos de programación y revisar detalladamente el código, debido a que se presentaban varios errores que impedían que la aplicación funcionara correctamente.
+
+Fue necesario analizar cada uno de los problemas, realizar modificaciones y efectuar diferentes pruebas para comprobar que los cambios realizados ayudaran a solucionar las fallas encontradas.
+
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
+
+A las **12:30 del mediodía** salí a almorzar y regresé nuevamente a la **1:30 de la tarde**.
+
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
+
+Durante la tarde continué trabajando en la programación y en la corrección de los errores que todavía se presentaban.
+
+También realicé diferentes pruebas para verificar los cambios y observar el comportamiento de la aplicación.
+
+Después de varias horas de trabajo, pude observar avances importantes en el funcionamiento de la aplicación. Esto permitió tener una mejor visión del proyecto y de los aspectos que todavía necesitaban ser mejorados.
+
+Finalmente, continué realizando ajustes hasta finalizar mi jornada a las **5:00 de la tarde**, dejando avances importantes en el proyecto.
+
+---
+
+## MIÉRCOLES 16 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 9:00 A. M. A 1:20 P. M.
+
+El día de hoy inicié mis actividades a las **9:00 de la mañana**, comenzando por verificar qué elementos y funciones todavía hacían falta en la aplicación.
+
+Durante este período no realicé cambios importantes, debido a que tuve algunas dificultades al trabajar con los dos programas que estaba utilizando y fue necesario revisar nuevamente el proceso que debía seguir.
+
+También intenté cambiar la imagen de la aplicación por una versión con fondo transparente. Sin embargo, al realizar el cambio, la imagen no se mostraba correctamente, por lo que fue necesario volver a colocar la imagen anterior para evitar afectar la apariencia de la aplicación.
+
+### HORARIO DE 1:20 P. M. A 2:20 P. M.
+
+A las **1:20 de la tarde** salí a almorzar y regresé a las **2:20 de la tarde**.
+
+### HORARIO DE 2:20 P. M. A 5:00 P. M.
+
+Al regresar, continué revisando el proyecto y verificando los aspectos que todavía se encontraban pendientes.
+
+Durante este período me enfoqué en identificar los elementos que faltaban y en organizar las modificaciones que posteriormente serían necesarias para continuar avanzando con el desarrollo de la aplicación.
+
+---
+
+## JUEVES 17 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 12:40 P. M.
+
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando con la revisión y programación del proyecto en **Visual Studio**.
+
+Durante la mañana continué con el desarrollo de la aplicación, revisando el código y realizando diferentes pruebas para identificar los errores que se estaban presentando y buscar la manera de corregirlos.
+
+### HORARIO DE 12:40 P. M. A 1:40 P. M.
+
+A las **12:40 del mediodía** salí a almorzar y regresé nuevamente a la **1:40 de la tarde**.
+
+### HORARIO DE 1:40 P. M. A 5:00 P. M.
+
+Durante la tarde continué trabajando en la programación y en la corrección de los errores encontrados.
+
+Realicé modificaciones y comprobé que los cambios permitieran un mejor funcionamiento de la aplicación. También revisé diferentes partes del proyecto para avanzar progresivamente en su desarrollo y evitar que los errores afectaran otras funciones.
+
+Finalmente, terminé mis actividades a las **5:00 de la tarde**, dejando avances en el desarrollo y corrección del proyecto.
+
+---
+
+## MARTES 22 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 1:00 P. M.
+
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando por revisar nuevamente la aplicación y verificar el estado en el que se encontraba.
+
+Durante la mañana trabajé en diferentes partes del proyecto, realizando correcciones, modificaciones y ajustes en aquellos elementos que presentaban errores o que no funcionaban de la manera esperada.
+
+### HORARIO DE 1:00 P. M. A 2:00 P. M.
+
+A la **1:00 de la tarde** salí a almorzar y regresé nuevamente a las **2:00 de la tarde**.
+
+### HORARIO DE 2:00 P. M. A 5:00 P. M.
+
+Durante la tarde continué trabajando en la aplicación y agregué diferentes clases que se encontraban dentro de las carpetas del proyecto.
+
+El objetivo de este proceso fue integrar correctamente sus funciones y lograr que los diferentes componentes trabajaran de manera adecuada.
+
+Después de realizar estos cambios, la aplicación comenzó a funcionar correctamente y se logró que los registros realizados dentro de ella pudieran guardarse de manera adecuada.
+
+Finalmente, continué realizando pruebas para verificar que los cambios efectuados no generaran nuevos errores y terminé mis actividades a las **5:00 de la tarde**.
+
+---
+
+## MIÉRCOLES 23 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
+
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando nuevamente con el desarrollo y revisión de la aplicación **ASISGRU**.
+
+Durante la mañana trabajé principalmente en la programación, realizando diferentes ajustes, corrigiendo detalles y verificando que las funciones desarrolladas anteriormente trabajaran correctamente.
+
+Conforme fui avanzando, pude observar que la aplicación se encontraba en una etapa bastante avanzada. Por ello, aproveché el tiempo para revisar los últimos detalles y realizar pequeñas modificaciones necesarias para mejorar su funcionamiento.
+
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
+
+A las **12:30 del mediodía** salí a almorzar y regresé nuevamente a la **1:30 de la tarde**.
+
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
+
+Durante la tarde continué trabajando en la aplicación, revisando los módulos y corrigiendo los últimos detalles pendientes.
+
+También comprobé que las diferentes partes de la aplicación mantuvieran una relación adecuada entre sí y que los cambios realizados anteriormente no ocasionaran nuevos errores.
+
+La tarde estuvo enfocada principalmente en programación, revisiones y correcciones. Finalmente, después de continuar trabajando y dejar la aplicación en una etapa bastante avanzada, terminé mis actividades a las **5:00 de la tarde**.
+
+---
+
+## JUEVES 24 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 9:00 A. M. A 1:00 P. M.
+
+El día de hoy inicié mi jornada a las **9:00 de la mañana**, teniendo un pequeño retraso debido a que no contaba con un medio de transporte para trasladarme.
+
+Al llegar, comencé revisando la página web que debía realizar en **Visual Studio**, verificando su funcionamiento y organizando los aspectos en los que debía trabajar.
+
+### HORARIO DE 1:00 P. M. A 2:00 P. M.
+
+A la **1:00 de la tarde** salí a almorzar y regresé nuevamente a las **2:00 de la tarde**.
+
+### HORARIO DE 2:00 P. M. A 5:00 P. M.
+
+Durante la tarde continué con las actividades pendientes y me dediqué principalmente a resumir y organizar la información correspondiente a mi diario de prácticas.
+
+Realicé la revisión de los avances y actividades desarrolladas anteriormente, procurando dejar la información registrada de manera clara y ordenada.
+
+Finalmente, culminé mi jornada de prácticas a las **5:00 de la tarde**.
+
+---
+
+## VIERNES 25 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 12:00 A. M. A 1:00 A. M.
+
+Durante la madrugada dediqué aproximadamente una hora a continuar trabajando con la aplicación desde **Visual Studio**, realizando algunas correcciones necesarias para poder avanzar con la finalización del proyecto durante la jornada siguiente.
+
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
+
+El día de hoy inicié mi jornada de prácticas a las **8:00 de la mañana**, continuando con el desarrollo de la aplicación y realizando los últimos cambios pendientes.
+
+Durante la mañana se realizaron diferentes ajustes y correcciones con el objetivo de lograr que la aplicación funcionara de la manera esperada.
+
+Después de realizar las modificaciones necesarias, se logró completar la mayor parte del trabajo, aunque fue necesario efectuar algunos cambios adicionales para mejorar el funcionamiento y la presentación.
+
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
+
+A las **12:30 del mediodía** salí a almorzar y regresé nuevamente a las **1:30 de la tarde**.
+
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
+
+Durante la tarde realicé los últimos retoques y posteriormente procedí a probar la aplicación para verificar que todo funcionara correctamente.
+
+Después de realizar las pruebas correspondientes, se comprobó que la aplicación funcionaba adecuadamente y que los cambios realizados habían sido aplicados correctamente.
+
+Una vez finalizada esta parte del proyecto, comencé a investigar los procedimientos y requisitos necesarios para conocer cómo podría realizarse la distribución de la aplicación en dispositivos con sistema operativo **iOS**.
+
+El objetivo de esta investigación fue conocer los pasos necesarios para ampliar la compatibilidad de la aplicación y comprender los procesos relacionados con su distribución.
+
+Finalmente, culminé mi jornada de prácticas a las **5:00 de la tarde**.
+
+---
+
+## DOMINGO 27 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 7:00 P. M. A 8:00 P. M.
+
+El día de hoy dediqué una hora de trabajo desde casa a continuar con la investigación relacionada con **iOS**.
+
+Durante este período revisé información acerca de los procedimientos necesarios para que una aplicación pueda ser utilizada y distribuida en dispositivos con este sistema operativo.
+
+---
+
+## LUNES 28 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 12:20 P. M.
+
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, comenzando con el trabajo relacionado con la aplicación **ASISGRU**.
+
+Durante la mañana me dediqué principalmente a la elaboración del **manual de usuario** de la aplicación. Comencé organizando la estructura que tendría el manual y definiendo los diferentes apartados que debía incluir.
 
 Posteriormente, empecé a redactar la información correspondiente al funcionamiento de ASISGRU, explicando de manera ordenada sus principales módulos y las funciones que puede realizar el usuario dentro de la aplicación.
 
-También trabajé en las instrucciones para utilizar los módulos de configuración del grupo, participantes, categorías, actividades y registro de asistencia, procurando que las explicaciones fueran claras y fáciles de comprender.
+También trabajé en las instrucciones para utilizar los módulos de **configuración del grupo, participantes, categorías, actividades y registro de asistencia**, procurando que las explicaciones fueran claras y fáciles de comprender.
 
-A las 12:20 del mediodía salí a almorzar y posteriormente regresé a las 1:30 de la tarde para continuar con mis actividades.
+### HORARIO DE 12:20 P. M. A 1:30 P. M.
 
-Durante la tarde continué trabajando en el manual, revisando y organizando el contenido para que cada sección tuviera la información necesaria y siguiera un orden adecuado.
+A las **12:20 del mediodía** salí a almorzar y posteriormente regresé a la **1:30 de la tarde**.
 
-Finalmente, después de continuar con la redacción y revisión del manual, terminé mis actividades a las 5:00 de la tarde.
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
 
-## 29 de septiembre 
-El día de hoy inicié mis actividades a las 8:00 am trabajando en el manual de usuario de ASISGRU. Durante la jornada estuve organizando la información de la aplicación y definiendo los diferentes apartados que debía incluir el manual, con el objetivo de explicar de manera clara el funcionamiento de cada uno de sus módulos. saliendo a las 12:30 am y regresando a la 1:30 pm, después de eso trabajé en la descripción de los procesos para configurar el grupo, registrar participantes, crear categorías, agregar actividades y llevar el registro de asistencia. Además, revisé la estructura general del manual para que la información quedara ordenada y fuera fácil de comprender para los usuarios saliendo así a las 5 de la tarde.
+Durante la tarde continué trabajando en el manual de usuario, revisando y organizando el contenido para que cada sección tuviera la información necesaria y siguiera un orden adecuado.
 
-## 30 de septiembre
-El día de hoy ingresé a las 8:00 de la mañana e inicié trabajando en el manual de usuario de ASISGRU. Durante la jornada continué organizando y redactando la información necesaria para explicar de manera clara el funcionamiento de la aplicación. También trabajé en la explicación de cómo nació la idea de ASISGRU, su propósito y los diferentes tipos de grupos en los que puede utilizarse. Además, revisé los módulos de la aplicación y las tecnologías utilizadas durante su desarrollo para incluir esta información dentro del manual.
+Finalmente, después de continuar con la redacción y revisión del manual, terminé mis actividades a las **5:00 de la tarde**.
 
-A las 12:30 del mediodía salí a almorzar y regresé a las 1:30 de la tarde. Durante la tarde continué revisando y organizando el contenido del manual, procurando que la información estuviera clara, ordenada y fácil de comprender para los usuarios. También comencé a trabajar en ideas para la promoción de ASISGRU, buscando frases que pudieran utilizarse en un video publicitario. Finalmente, terminé mis actividades a las 5:00 de la tarde.
+---
 
-## 1 de octubre
-El día de hoy ingresé a las 8:00 de la mañana y continué trabajando en la promoción de la aplicación ASISGRU. Durante la mañana estuve creando y seleccionando diferentes frases para utilizar en el video publicitario, buscando que fueran llamativas y que transmitieran de manera sencilla el propósito de la aplicación. Trabajé con frases como “Un nuevo comienzo”, “Un nuevo camino” y “Descubre una nueva forma de organizar con ASISGRU”.
+## MARTES 29 DE SEPTIEMBRE DEL 2026
 
-A las 12:30 del mediodía salí a almorzar y regresé a las 1:30 de la tarde. Durante la tarde continué trabajando en el contenido del video y elaboré el guion para la voz de la publicidad, buscando que tuviera un estilo profesional, dinámico y atractivo. También investigué diferentes herramientas de inteligencia artificial que permiten generar voces femeninas y revisé cómo agregar una voz de este tipo al video realizado en Canva pero no se pudo. Finalicé mis actividades a las 5:00 de la tarde.
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
+
+El día de hoy inicié mis actividades a las **8:00 de la mañana**, trabajando en el manual de usuario de **ASISGRU**.
+
+Durante la jornada estuve organizando la información de la aplicación y definiendo los diferentes apartados que debía incluir el manual, con el objetivo de explicar de manera clara el funcionamiento de cada uno de sus módulos.
+
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
+
+A las **12:30 del mediodía** salí a almorzar y regresé nuevamente a la **1:30 de la tarde**.
+
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
+
+Durante la tarde continué trabajando en la descripción de los procesos necesarios para configurar el grupo, registrar participantes, crear categorías, agregar actividades y llevar el registro de asistencia.
+
+Además, revisé la estructura general del manual para procurar que la información quedara ordenada y fuera fácil de comprender para los usuarios.
+
+Finalmente, terminé mis actividades a las **5:00 de la tarde**.
+
+---
+
+## MIÉRCOLES 30 DE SEPTIEMBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
+
+El día de hoy ingresé a las **8:00 de la mañana** e inicié mis actividades trabajando en el manual de usuario de **ASISGRU**.
+
+Durante la jornada continué organizando y redactando la información necesaria para explicar de manera clara el funcionamiento de la aplicación.
+
+También trabajé en la explicación de cómo surgió la idea de ASISGRU, su propósito y los diferentes tipos de grupos en los que puede utilizarse.
+
+Además, revisé los módulos de la aplicación y las tecnologías utilizadas durante su desarrollo con el objetivo de incorporar esta información dentro del manual.
+
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
+
+A las **12:30 del mediodía** salí a almorzar y regresé nuevamente a la **1:30 de la tarde**.
+
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
+
+Durante la tarde continué revisando y organizando el contenido del manual, procurando que la información estuviera clara, ordenada y fuera fácil de comprender para los usuarios.
+
+También comencé a trabajar en diferentes ideas para la promoción de **ASISGRU**, buscando frases que pudieran utilizarse posteriormente en un video publicitario.
+
+Finalmente, terminé mis actividades a las **5:00 de la tarde**.
+
+---
+
+## JUEVES 1 DE OCTUBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 12:30 P. M.
+
+El día de hoy ingresé a las **8:00 de la mañana** y continué trabajando en la promoción de la aplicación **ASISGRU**.
+
+Durante la mañana estuve creando y seleccionando diferentes frases para utilizar en el video publicitario. El objetivo fue encontrar mensajes llamativos que transmitieran de manera sencilla el propósito de la aplicación.
+
+Entre las ideas trabajadas se encontraron frases como **“Un nuevo comienzo”**, **“Un nuevo camino”** y **“Descubre una nueva forma de organizar con ASISGRU”**.
+
+### HORARIO DE 12:30 P. M. A 1:30 P. M.
+
+A las **12:30 del mediodía** salí a almorzar y regresé nuevamente a la **1:30 de la tarde**.
+
+### HORARIO DE 1:30 P. M. A 5:00 P. M.
+
+Durante la tarde continué trabajando en el contenido del video y elaboré el guion correspondiente a la voz de la publicidad, procurando que tuviera un estilo profesional, dinámico y atractivo.
+
+También investigué diferentes herramientas de inteligencia artificial que permiten generar voces femeninas y revisé las posibilidades para incorporar una voz de este tipo al video realizado en Canva. Sin embargo, durante esta jornada no fue posible completar esta incorporación.
+
+Finalmente, continué organizando el contenido promocional y terminé mis actividades de prácticas a las **5:00 de la tarde**.
+
+## VIERNES 2 DE OCTUBRE DEL 2026
+
+### HORARIO DE 8:00 A. M. A 2:20 P. M.
+
+El día de hoy inicié mis prácticas a las 8:00 de la mañana. Durante la jornada trabajé principalmente en la organización y corrección de los diarios de prácticas, revisando la información de los días anteriores para mejorar su redacción, ordenar las actividades realizadas y darle una presentación más clara y profesional al documento.
+
+También continué trabajando en Canva, realizando ajustes relacionados con el material de promoción de la aplicación ASISGRU. Revisé y modifiqué algunos elementos del diseño para mejorar la presentación del contenido y procurar que la información de la aplicación se mostrara de una manera más ordenada y atractiva.
+
+### HORARIO DE 2:20 P. M. A 3:20 P. M.
+
+A las 2:20 de la tarde salí a almorzar y regresé a las 3:20 de la tarde para continuar con las actividades de la práctica.
+
+### HORARIO DE 3:20 P. M. A 5:00 P. M.
+
+Al regresar, continué revisando y corrigiendo los diarios de prácticas, verificando que las actividades estuvieran correctamente organizadas y redactadas. También realicé algunos ajustes finales en Canva relacionados con el material promocional de ASISGRU.
+
+Finalmente, revisé el trabajo realizado durante el día y dejé organizados los avances correspondientes. Finalicé mis actividades a las 5:00 de la tarde.
