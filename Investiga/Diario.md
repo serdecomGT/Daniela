@@ -155,13 +155,6 @@ Después de varias horas de trabajo, finalmente pude observar los primeros avanc
 
 Continué trabajando y realizando ajustes hasta finalizar mi jornada. Sin darme cuenta, llegó la hora de salida, por lo que finalicé mis actividades a las 5:00 de la tarde, dejando el proyecto con avances importantes y con la intención de continuar trabajando en las partes que aún hacen falta completar.
 
-## Miércoles 16 de septiembre
-El día de hoy inicié mis actividades a las 9:00 de la mañana, comenzando por verificar qué elementos y funciones aún hacían falta en la aplicación. Por el momento no realicé cambios importantes, ya que tuve algunas dificultades al trabajar con los dos programas que estaba utilizando y me llegué a confundir un poco con el proceso que debía seguir.
-
-También intenté cambiar la imagen de la aplicación por una versión con el fondo transparente; sin embargo, al realizar el cambio, la imagen no se mostraba correctamente y aparecía únicamente la imagen sin los demás elementos que debía contener. Debido a este inconveniente, tuve que volver a colocar la imagen anterior para evitar afectar el funcionamiento y la apariencia de la aplicación.
-
-Tomé mi hora de almuerzo de 1:20 a 2:20 de la tarde. Al regresar, continué revisando el proyecto y verificando qué aspectos todavía estaban pendientes, con la intención de seguir realizando las modificaciones necesarias y poder agregar los elementos que aún hacen falta en la aplicación, avanzando poco a poco en el desarrollo del proyecto.
-
 ## Jueves 17 de septiembre 
 El día de hoy comencé mis actividades a las **8:00 de la mañana**, iniciando con la revisión y programación del proyecto en Visual Studio. Durante la mañana me dediqué principalmente a continuar con el desarrollo de la aplicación, revisando el código y realizando diferentes pruebas para identificar los errores que se estaban presentando y buscar la manera de corregirlos.
 
