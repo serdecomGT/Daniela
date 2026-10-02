@@ -222,3 +222,16 @@ A las 12:20 del mediodía salí a almorzar y posteriormente regresé a las 1:30 
 Durante la tarde continué trabajando en el manual, revisando y organizando el contenido para que cada sección tuviera la información necesaria y siguiera un orden adecuado.
 
 Finalmente, después de continuar con la redacción y revisión del manual, terminé mis actividades a las 5:00 de la tarde.
+
+## 29 de septiembre 
+El día de hoy inicié mis actividades a las 8:00 am trabajando en el manual de usuario de ASISGRU. Durante la jornada estuve organizando la información de la aplicación y definiendo los diferentes apartados que debía incluir el manual, con el objetivo de explicar de manera clara el funcionamiento de cada uno de sus módulos. saliendo a las 12:30 am y regresando a la 1:30 pm, después de eso trabajé en la descripción de los procesos para configurar el grupo, registrar participantes, crear categorías, agregar actividades y llevar el registro de asistencia. Además, revisé la estructura general del manual para que la información quedara ordenada y fuera fácil de comprender para los usuarios saliendo así a las 5 de la tarde.
+
+## 30 de septiembre
+El día de hoy ingresé a las 8:00 de la mañana e inicié trabajando en el manual de usuario de ASISGRU. Durante la jornada continué organizando y redactando la información necesaria para explicar de manera clara el funcionamiento de la aplicación. También trabajé en la explicación de cómo nació la idea de ASISGRU, su propósito y los diferentes tipos de grupos en los que puede utilizarse. Además, revisé los módulos de la aplicación y las tecnologías utilizadas durante su desarrollo para incluir esta información dentro del manual.
+
+A las 12:30 del mediodía salí a almorzar y regresé a las 1:30 de la tarde. Durante la tarde continué revisando y organizando el contenido del manual, procurando que la información estuviera clara, ordenada y fácil de comprender para los usuarios. También comencé a trabajar en ideas para la promoción de ASISGRU, buscando frases que pudieran utilizarse en un video publicitario. Finalmente, terminé mis actividades a las 5:00 de la tarde.
+
+## 1 de octubre
+El día de hoy ingresé a las 8:00 de la mañana y continué trabajando en la promoción de la aplicación ASISGRU. Durante la mañana estuve creando y seleccionando diferentes frases para utilizar en el video publicitario, buscando que fueran llamativas y que transmitieran de manera sencilla el propósito de la aplicación. Trabajé con frases como “Un nuevo comienzo”, “Un nuevo camino” y “Descubre una nueva forma de organizar con ASISGRU”.
+
+A las 12:30 del mediodía salí a almorzar y regresé a las 1:30 de la tarde. Durante la tarde continué trabajando en el contenido del video y elaboré el guion para la voz de la publicidad, buscando que tuviera un estilo profesional, dinámico y atractivo. También investigué diferentes herramientas de inteligencia artificial que permiten generar voces femeninas y revisé cómo agregar una voz de este tipo al video realizado en Canva pero no se pudo. Finalicé mis actividades a las 5:00 de la tarde.
