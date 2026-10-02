@@ -1,11 +1,11 @@
-# DIARIO DE PRACTICAS - DANIELA ALEJANDRA LÒPEZ DE LEÓN, ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACIÓN EN COMPUTACIÓN DE LA ESCUELA NORMAL DE MAESTRAS DE EDUCACIÓN PARA EL HOGAR "HUMBERTO MIRANDA FUENTES"
+# DIARIO DE PRACTICAS - DANIELA ALEJANDRA LÓPEZ DE LEÓN, ESTUDIANTE DE 5TO BACHILLERATO EN CIENCIAS Y LETRAS CON ORIENTACIÓN EN COMPUTACIÓN DE LA ESCUELA NORMAL DE MAESTRAS DE EDUCACIÓN PARA EL HOGAR "HUMBERTO MIRANDA FUENTES"
 ---
 
-## Martes 1 de septiembre.
+## Martes 1 de septiembre 
 
 ***actividades realizadas***
 
-El día de hoy inicié mis prácticas con Don Carlos. La jornada comenzó a las **8:00 de la mañana**. Para iniciar, Don Carlos nos dio la bienvenida y posteriormente tuvimos una conversación acerca de la carrera que estamos estudiando. También nos explicó y comentó sobre las actividades que realizaríamos durante este mes de prácticas junto con mi compañera **Aide Rubio**.
+El día de hoy inicié mis prácticas con Don Carlos. La jornada comenzó a las **8:00 de la mañana**. Para iniciar, Don Carlos nos dio la bienvenida y posteriormente tuvimos una conversación acerca de la carrera que estamos estudiando. También nos explicó y comentó sobre las actividades que realizaríamos durante este mes de prácticas junto con mi compañera **Aidé Rubio**.
 
 Después de habernos explicado sobre la carrera y las actividades que realizaríamos durante el mes, Don Carlos nos indicó los diferentes temas que debíamos investigar. Además, nos proporcionó un pequeño resumen de cada uno de ellos para que pudiéramos tener una idea general y comprender de qué trataba cada tema. Los temas debíamos complementarlos nosotros mismos mediante la investigación, agregando información importante y procurando comprender el contenido.
 
@@ -120,7 +120,7 @@ Finalmente, continuamos revisando los detalles y dejamos encaminadas las activid
 
 El día de hoy comencé mis actividades a las 8:00 de la mañana, iniciando con la revisión del proyecto que llevaríamos a cabo. Primero me tomé el tiempo para leer y analizar la información, con el objetivo de comprender mejor las actividades que realizaríamos durante el desarrollo del proyecto.
 
-Después de revisar el proyecto, apoyé al trabajador Gerson en una actividad que necesitaba realizar, la cual consistía en pelar algunos cables que utilizaría posteriormente. Al finalizar, ayudé a buscar algunos elementos y recursos necesarios para el equipo que mi compañera Aide se encontraba instalando.
+Después de revisar el proyecto, apoyé en la actividad de organizar cables en los equipos de cómputo de la empresa. Al finalizar, ayudé a armar el equipo que mi compañera utilizaría en su práctica.
 
 Posteriormente, revisamos la aplicación que utilizaríamos para desarrollar nuestro proyecto, llegando a la conclusión de que trabajaríamos con Visual Studio. Durante este tiempo también estuvimos revisando nuevamente el proyecto y analizando los pasos que debíamos seguir para comenzar con el desarrollo.
 
@@ -131,7 +131,7 @@ Finalmente, antes de terminar la jornada, actualicé mi diario de actividades, d
 ## Miércoles 9 de septiembre 
 El día de hoy comencé mis actividades a las 8:00 de la mañana, iniciando con el proyecto en Visual Studio. Al comenzar a trabajar, observé que el programa presentaba varios errores y fallas, por lo que durante la mañana me dediqué a intentar solucionarlos. Sin embargo, no fue posible corregirlos por completo, lo que dificultó avanzar con el proyecto y limitó las actividades que pude realizar durante ese período.
 
-A las 12:30 del mediodía salí a la hora del almuerzo y regresé nuevamente a la 1:30 de la tarde. Al regresar, encendí un equipo que habían llevado para posteriormente continuar con el trabajo de programación. Más adelante llegó Gerson para ayudar a encender y revisar el equipo, ya que se necesitaba verificar un problema que presentaba la pantalla, la cual se apagaba varias veces.
+A las 12:30 del mediodía salí a la hora del almuerzo y regresé nuevamente a la 1:30 de la tarde. Al regresar, encendí un equipo que habían llevado para posteriormente continuar con el trabajo de programación. Más adelante ayudé a encender y revisar el equipo, ya que se necesitaba verificar un problema que presentaba la pantalla, la cual se apagaba varias veces.
 
 Para comprobar el comportamiento del equipo, dejamos reproduciendo un video durante un período de tiempo y observamos cuántas veces el equipo presentaba fallas o se trababa. Después de realizar esta prueba, retomamos el proyecto de **AsisGrup**, comenzando nuevamente desde cero para revisar detalladamente el trabajo realizado. Durante este proceso fuimos verificando y corrigiendo los diferentes errores que se presentaban, con el objetivo de lograr que el proyecto funcionara correctamente y poder continuar avanzando.
 
@@ -154,6 +154,13 @@ A las 12:30 del mediodía salí a almorzar, regresando nuevamente a las 1:30 de 
 Después de varias horas de trabajo, finalmente pude observar los primeros avances más visibles de la aplicación, lo cual fue satisfactorio, ya que durante los días anteriores había estado trabajando principalmente en la solución de errores y en la configuración del proyecto. Esto me permitió tener una mejor idea de cómo estaba quedando la aplicación y de los aspectos que todavía necesitaban ser mejorados.
 
 Continué trabajando y realizando ajustes hasta finalizar mi jornada. Sin darme cuenta, llegó la hora de salida, por lo que finalicé mis actividades a las 5:00 de la tarde, dejando el proyecto con avances importantes y con la intención de continuar trabajando en las partes que aún hacen falta completar.
+
+## Miércoles 16 de septiembre
+El día de hoy inicié mis actividades a las 9:00 de la mañana, comenzando por verificar qué elementos y funciones aún hacían falta en la aplicación. Por el momento no realicé cambios importantes, ya que tuve algunas dificultades al trabajar con los dos programas que estaba utilizando y me llegué a confundir un poco con el proceso que debía seguir.
+
+También intenté cambiar la imagen de la aplicación por una versión con el fondo transparente; sin embargo, al realizar el cambio, la imagen no se mostraba correctamente y aparecía únicamente la imagen sin los demás elementos que debía contener. Debido a este inconveniente, tuve que volver a colocar la imagen anterior para evitar afectar el funcionamiento y la apariencia de la aplicación.
+
+Tomé mi hora de almuerzo de 1:20 a 2:20 de la tarde. Al regresar, continué revisando el proyecto y verificando qué aspectos todavía estaban pendientes, con la intención de seguir realizando las modificaciones necesarias y poder agregar los elementos que aún hacen falta en la aplicación, avanzando poco a poco en el desarrollo del proyecto.
 
 ## Jueves 17 de septiembre 
 El día de hoy comencé mis actividades a las **8:00 de la mañana**, iniciando con la revisión y programación del proyecto en Visual Studio. Durante la mañana me dediqué principalmente a continuar con el desarrollo de la aplicación, revisando el código y realizando diferentes pruebas para identificar los errores que se estaban presentando y buscar la manera de corregirlos.
@@ -181,7 +188,7 @@ Conforme fui avanzando, pude notar que la aplicación ya se encontraba casi fina
 
 A las 12:30 del mediodía salí a almorzar y regresé nuevamente a las 1:30 de la tarde para continuar con el trabajo. Durante la tarde seguí enfocándome en la aplicación, revisando los módulos y corrigiendo los últimos detalles que aún estaban pendientes. Poco a poco fui dejando la aplicación más completa y organizada, logrando avanzar bastante y acercándome cada vez más a finalizar el proyecto.
 
-La tarde prácticamente se me fue entre programación, revisiones y correcciones JAJAJA, porque cuando ya parecía que todo estaba terminado siempre aparecía algún pequeño detalle que revisar. Finalmente, después de continuar trabajando y dejar la aplicación en una etapa bastante avanzada, terminé mis actividades a las 5:00 de la tarde.
+La tarde prácticamente se me fue entre programación, revisiones y correcciones, porque cuando ya parecía que todo estaba terminado siempre aparecía algún pequeño detalle que revisar. Finalmente, después de continuar trabajando y dejar la aplicación en una etapa bastante avanzada, terminé mis actividades a las 5:00 de la tarde.
 
 ## jueves 24 de septiembre 
 El día de hoy inicié mi jornada a las 9:00 de la mañana, teniendo un pequeño retraso debido a que no contaba con un medio de transporte para trasladarme. Al llegar, comencé revisando la página web que debía realizar en Visual Studio, verificando su funcionamiento y organizando los aspectos en los que debía trabajar. A la 1:00 de la tarde salí a almorzar y regresé a las 2:00, continuando con las actividades pendientes. Durante la tarde me dediqué a resumir y organizar la información de mi diario de prácticas, dejando registrados los avances y actividades realizadas. Finalmente, culminé mi jornada a las 5:00 de la tarde.
