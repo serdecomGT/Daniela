@@ -4,9 +4,8 @@
 
 ### Horario: 8:00 – 12:30
 
-Inicié mis prácticas a las 8:00 de la mañana en recursosoporte. Al comenzar, recibimos una bienvenida y una introducción a las actividades que realizaríamos durante las prácticas. Posteriormente, se nos asignaron diferentes temas de investigación relacionados con la programación y la tecnología, que debíamos estudiar y preparar con nuestras propias palabras.
-
-Durante la mañana también se revisaron algunos equipos de cómputo. Se verificó el funcionamiento de tres computadoras utilizando el Administrador de tareas. Se pudo observar que algunas presentaban lentitud y se quedaban congeladas. En una de ellas, el procesador se encontraba saturado y también se detectó un problema relacionado con el disco. En otra computadora se revisó el uso de la memoria.
+- Inicié mis prácticas a las 8:00 de la mañana en recursosoporte. Al comenzar, recibimos una bienvenida y una introducción a las actividades que realizaríamos durante las prácticas. Posteriormente, se nos asignaron diferentes temas de investigación relacionados con la programación y la tecnología, que debíamos estudiar y preparar con nuestras propias palabras.
+- Durante la mañana también se revisaron algunos equipos de cómputo. Se verificó el funcionamiento de tres computadoras utilizando el Administrador de tareas. Se pudo observar que algunas presentaban lentitud y se quedaban congeladas. En una de ellas, el procesador se encontraba saturado y también se detectó un problema relacionado con el disco. En otra computadora se revisó el uso de la memoria.
 
 ### Horario: 13:30 – 18:00 
 
