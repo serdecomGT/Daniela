@@ -1,5 +1,7 @@
 # DIARIO DE PRÁCTICAS - DANIELA ALEJANDRA LÓPEZ DE LEÓN. 5TO BACHILLERATO EN CIAENCIAS Y LETRAS CON ORIENTACIÓN EN COMPUTACIÓN EN LA ESCUELA NORMAL DE MAESTRAS DE EDUCACIÓN PARA EL HOGAR "HUMBERTO MIRANDA FUENTES"
 
+# PRACTICA REALIZADA EN RECURSOSOPORTE
+
 ## MARTES 1 DE SEPTIEMBRE DEL 2026
 
 ### Horario: 8:00 – 12:30
@@ -70,7 +72,7 @@
 - Durante este día realicé trabajo desde casa. De 18:00 p. m. a 19:05 p. m. estuve investigando y trabajando en el tema de bases de datos, con el objetivo de ampliar mis conocimientos y continuar avanzando en los temas necesarios para el desarrollo del proyecto.
 
 ---
-## LUENES 7 DE SEPTIEMBRE
+## LUENES 7 DE SEPTIEMBRE DEL 2026
 ### Horario: 8:00 - 12:30 
 - El día de hoy comencé mis actividades alas 8:00 trabaje los cuestionarios y revisando si no habían errores en los cuestionarios anteriores que ya había contestado así me lleve toda la mañana después salí a las 12:30 para almorzar  
 
