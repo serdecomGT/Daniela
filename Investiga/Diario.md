@@ -314,3 +314,13 @@
 - Después del almuerzo continué organizando y corrigiendo el diario de prácticas. También trabajé en otro video publicitario, realizando ajustes y modificaciones para mejorar su presentación.
 
 - Finalmente, terminé la jornada a las 5:00 de la tarde, dejando avanzados tanto los registros del diario como el material promocional de la aplicación.
+
+## LUNES 5 DE OCTUBRE DEL 2026
+### Horario 8:00 - 13:20 
+
+Inicié mis actividades a las. Durante la mañana me dediqué a darle estilo y mejorar la presentación del diario, realizando algunos cambios para que la información se viera más ordenada y presentable. También comencé a trabajar en la publicación de videos publicitarios para promocionar la aplicación en mis redes sociales.
+
+Al principio tuve algunas dificultades para realizar las publicaciones, por lo que no pude completarlas durante la mañana. 
+### Horario 14:20 - 16:10 
+Después del almuerzo retomé el trabajo con las publicaciones de los videos publicitarios. Finalmente, logré realizar y dejar publicadas las publicaciones en **Facebook, Instagram y TikTok**. Para las **16:10 horas**, los videos ya se encontraban publicados en las tres redes sociales, dando por finalizada esta parte de la actividad.
+
