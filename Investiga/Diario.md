@@ -274,6 +274,9 @@ Realicé modificaciones y comprobé que los cambios permitieran un mejor funcion
 Finalmente, terminé mis actividades a las **5:00 de la tarde**, dejando avances en el desarrollo y corrección del proyecto.
 
 ---
+# VIERNES 18 Y LUNES 21 
+Permiso especial
+---
 
 ## MARTES 22 DE SEPTIEMBRE DEL 2026
 
