@@ -324,7 +324,7 @@
 
 - Links de las publicaciones realizadas.
 
-- https://www.facebook.com/share/v/1C7KdtKeUT/
+https://www.facebook.com/share/v/1C7KdtKeUT/
 
 https://www.facebook.com/share/v/1K9qwbmw1u/
 
