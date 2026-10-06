@@ -321,7 +321,28 @@
 - Inicié mis actividades a las. Durante la mañana me dediqué a darle estilo y mejorar la presentación del diario, realizando algunos cambios para que la información se viera más ordenada y presentable. También comencé a trabajar en la publicación de videos publicitarios para promocionar la aplicación en mis redes sociales.
 
 - Al principio tuve algunas dificultades para realizar las publicaciones, por lo que no pude completarlas durante la mañana.
+
+- Links de las publicaciones realizadas.
+
+- https://www.facebook.com/share/v/1C7KdtKeUT/
+
+https://www.facebook.com/share/v/1K9qwbmw1u/
+
+https://www.instagram.com/reel/DeIEm6cOIk_/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+
+https://www.instagram.com/reel/DeINBJ-uB3f/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+
+https://www.tiktok.com/@dani50149/video/7693305207194750216?is_from_webapp=1&sender_device=pc
+
+https://www.tiktok.com/@dani50149/video/7693305744627600692?is_from_webapp=1&sender_device=pc
   
 ### Horario 14:20 - 16:10 
 - Después del almuerzo retomé el trabajo con las publicaciones de los videos publicitarios. Finalmente, logré realizar y dejar publicadas las publicaciones en **Facebook, Instagram y TikTok**. Para las **16:10 horas**, los videos ya se encontraban publicados en las tres redes sociales, dando por finalizada esta parte de la actividad.
+
+### 16:00 - 17:00 
+- Se realizó una reunión de evaluación y compartimiento como culiminación anticipada de la práctica.
+
+## MARTES Y MIÉRCOLES 6 Y 7 DE OCTUBRE DEL 2026
+- Las prácticas se culimnaron el 5 de octubre, fue de forma anticipada por compromisos de la empresa Recurso Soporte fuera del departamento de Quetzaltenango. La culiminación anticipada no perjudica el cumplimiento de la práctica supervisada para las señoritas participantes.
+
 
